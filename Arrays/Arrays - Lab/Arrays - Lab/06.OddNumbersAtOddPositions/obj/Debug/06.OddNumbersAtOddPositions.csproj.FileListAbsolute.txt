@@ -1,0 +1,5 @@
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\06.OddNumbersAtOddPositions\bin\Debug\06.OddNumbersAtOddPositions.exe.config
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\06.OddNumbersAtOddPositions\bin\Debug\06.OddNumbersAtOddPositions.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\06.OddNumbersAtOddPositions\bin\Debug\06.OddNumbersAtOddPositions.pdb
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\06.OddNumbersAtOddPositions\obj\Debug\06.OddNumbersAtOddPositions.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\06.OddNumbersAtOddPositions\obj\Debug\06.OddNumbersAtOddPositions.pdb

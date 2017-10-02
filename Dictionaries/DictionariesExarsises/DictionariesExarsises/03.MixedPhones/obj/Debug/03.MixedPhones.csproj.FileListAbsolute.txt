@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\03.MixedPhones\bin\Debug\03.MixedPhones.exe.config
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\03.MixedPhones\bin\Debug\03.MixedPhones.exe
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\03.MixedPhones\bin\Debug\03.MixedPhones.pdb
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\03.MixedPhones\obj\Debug\03.MixedPhones.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\03.MixedPhones\obj\Debug\03.MixedPhones.exe
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\03.MixedPhones\obj\Debug\03.MixedPhones.pdb

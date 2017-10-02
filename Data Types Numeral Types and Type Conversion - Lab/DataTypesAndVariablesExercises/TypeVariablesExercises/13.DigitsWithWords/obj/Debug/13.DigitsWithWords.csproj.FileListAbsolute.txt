@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\13.DigitsWithWords\bin\Debug\13.DigitsWithWords.exe.config

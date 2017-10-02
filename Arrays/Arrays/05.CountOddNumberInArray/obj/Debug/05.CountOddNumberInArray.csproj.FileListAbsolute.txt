@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays\05.CountOddNumberInArray\bin\Debug\05.CountOddNumberInArray.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays\05.CountOddNumberInArray\bin\Debug\05.CountOddNumberInArray.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays\05.CountOddNumberInArray\bin\Debug\05.CountOddNumberInArray.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays\05.CountOddNumberInArray\obj\Debug\05.CountOddNumberInArray.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays\05.CountOddNumberInArray\obj\Debug\05.CountOddNumberInArray.pdb

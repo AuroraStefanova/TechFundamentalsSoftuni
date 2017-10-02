@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\09.DebuggingTriangleFormations\bin\Debug\09.DebuggingTriangleFormations.exe.config

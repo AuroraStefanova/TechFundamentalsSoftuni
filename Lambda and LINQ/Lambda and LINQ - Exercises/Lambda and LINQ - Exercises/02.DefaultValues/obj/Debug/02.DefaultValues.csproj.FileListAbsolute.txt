@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\02.DefaultValues\bin\Debug\02.DefaultValues.exe.config
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\02.DefaultValues\bin\Debug\02.DefaultValues.exe
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\02.DefaultValues\bin\Debug\02.DefaultValues.pdb
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\02.DefaultValues\obj\Debug\02.DefaultValues.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\02.DefaultValues\obj\Debug\02.DefaultValues.exe
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\02.DefaultValues\obj\Debug\02.DefaultValues.pdb

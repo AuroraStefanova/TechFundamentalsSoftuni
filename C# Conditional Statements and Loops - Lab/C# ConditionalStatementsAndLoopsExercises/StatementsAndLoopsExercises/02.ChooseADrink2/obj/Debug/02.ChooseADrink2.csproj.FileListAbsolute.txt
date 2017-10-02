@@ -1,0 +1,2 @@
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\02.ChooseADrink2\bin\Debug\02.ChooseADrink2.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\02.ChooseADrink2\bin\Debug\02.ChooseADrink2.exe.config

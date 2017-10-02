@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\03.REverseArrayInPlayse\bin\Debug\03.REverseArrayInPlayse.exe.config
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\03.REverseArrayInPlayse\bin\Debug\03.REverseArrayInPlayse.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\03.REverseArrayInPlayse\bin\Debug\03.REverseArrayInPlayse.pdb
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\03.REverseArrayInPlayse\obj\Debug\03.REverseArrayInPlayse.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\03.REverseArrayInPlayse\obj\Debug\03.REverseArrayInPlayse.pdb
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\03.REverseArrayInPlayse\obj\Debug\03.REverseArrayInPlayse.csprojResolveAssemblyReference.cache

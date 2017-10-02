@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\05.IntegerToBase\bin\Debug\05.IntegerToBase.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\05.IntegerToBase\bin\Debug\05.IntegerToBase.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\05.IntegerToBase\bin\Debug\05.IntegerToBase.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\05.IntegerToBase\obj\Debug\05.IntegerToBase.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\05.IntegerToBase\obj\Debug\05.IntegerToBase.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\05.IntegerToBase\obj\Debug\05.IntegerToBase.pdb

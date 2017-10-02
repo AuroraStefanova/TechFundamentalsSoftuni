@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\04.OccurrencesOfLargerNumbersInArray\bin\Debug\04.OccurrencesOfLargerNumbersInArray.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\04.OccurrencesOfLargerNumbersInArray\bin\Debug\04.OccurrencesOfLargerNumbersInArray.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\04.OccurrencesOfLargerNumbersInArray\bin\Debug\04.OccurrencesOfLargerNumbersInArray.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\04.OccurrencesOfLargerNumbersInArray\obj\Debug\04.OccurrencesOfLargerNumbersInArray.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\04.OccurrencesOfLargerNumbersInArray\obj\Debug\04.OccurrencesOfLargerNumbersInArray.pdb

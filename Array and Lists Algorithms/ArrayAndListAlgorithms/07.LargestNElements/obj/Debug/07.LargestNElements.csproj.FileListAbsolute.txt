@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\07.LargestNElements\bin\Debug\07.LargestNElements.exe.config
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\07.LargestNElements\bin\Debug\07.LargestNElements.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\07.LargestNElements\bin\Debug\07.LargestNElements.pdb
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\07.LargestNElements\obj\Debug\07.LargestNElements.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\07.LargestNElements\obj\Debug\07.LargestNElements.pdb

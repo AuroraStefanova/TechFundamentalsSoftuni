@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\03.Greeting\bin\Debug\03.Greeting.exe.config
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\03.Greeting\bin\Debug\03.Greeting.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\03.Greeting\bin\Debug\03.Greeting.pdb
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\03.Greeting\obj\Debug\03.Greeting.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\03.Greeting\obj\Debug\03.Greeting.pdb

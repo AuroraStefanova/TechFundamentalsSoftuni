@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\04.UnunionList\bin\Debug\04.UnunionList.exe.config
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\04.UnunionList\bin\Debug\04.UnunionList.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\04.UnunionList\bin\Debug\04.UnunionList.pdb
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\04.UnunionList\obj\Debug\04.UnunionList.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\04.UnunionList\obj\Debug\04.UnunionList.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\04.UnunionList\obj\Debug\04.UnunionList.pdb

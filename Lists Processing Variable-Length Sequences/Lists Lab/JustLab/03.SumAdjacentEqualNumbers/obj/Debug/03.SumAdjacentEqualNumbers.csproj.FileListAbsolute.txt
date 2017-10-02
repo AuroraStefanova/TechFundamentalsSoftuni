@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\JustLab\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.exe.config
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\JustLab\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\JustLab\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.pdb
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\JustLab\03.SumAdjacentEqualNumbers\obj\Debug\03.SumAdjacentEqualNumbers.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\JustLab\03.SumAdjacentEqualNumbers\obj\Debug\03.SumAdjacentEqualNumbers.pdb

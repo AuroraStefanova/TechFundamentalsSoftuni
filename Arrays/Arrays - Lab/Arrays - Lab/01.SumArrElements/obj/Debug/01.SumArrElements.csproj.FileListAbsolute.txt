@@ -1,0 +1,6 @@
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\01.SumArrElements\bin\Debug\01.SumArrElements.exe.config
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\01.SumArrElements\bin\Debug\01.SumArrElements.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\01.SumArrElements\bin\Debug\01.SumArrElements.pdb
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\01.SumArrElements\obj\Debug\01.SumArrElements.csprojResolveAssemblyReference.cache
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\01.SumArrElements\obj\Debug\01.SumArrElements.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\01.SumArrElements\obj\Debug\01.SumArrElements.pdb

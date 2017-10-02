@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\06.FilterBase\bin\Debug\06.FilterBase.exe.config
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\06.FilterBase\bin\Debug\06.FilterBase.exe
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\06.FilterBase\bin\Debug\06.FilterBase.pdb
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\06.FilterBase\obj\Debug\06.FilterBase.exe
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\06.FilterBase\obj\Debug\06.FilterBase.pdb

@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\03.Phonebook\bin\Debug\03.Phonebook.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\03.Phonebook\bin\Debug\03.Phonebook.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\03.Phonebook\bin\Debug\03.Phonebook.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\03.Phonebook\obj\Debug\03.Phonebook.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\03.Phonebook\obj\Debug\03.Phonebook.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\03.Phonebook\obj\Debug\03.Phonebook.pdb

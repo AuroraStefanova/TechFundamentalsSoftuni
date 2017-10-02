@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\03.BigFactorial\bin\Debug\03.BigFactorial.exe.config
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\03.BigFactorial\bin\Debug\03.BigFactorial.exe
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\03.BigFactorial\bin\Debug\03.BigFactorial.pdb
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\03.BigFactorial\obj\Debug\03.BigFactorial.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\03.BigFactorial\obj\Debug\03.BigFactorial.exe
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\03.BigFactorial\obj\Debug\03.BigFactorial.pdb

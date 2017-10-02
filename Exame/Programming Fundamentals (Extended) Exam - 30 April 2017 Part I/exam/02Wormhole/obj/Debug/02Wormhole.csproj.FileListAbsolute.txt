@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals (Extended) Exam - 30 April 2017 Part I\exam\02Wormhole\bin\Debug\02Wormhole.exe.config
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals (Extended) Exam - 30 April 2017 Part I\exam\02Wormhole\bin\Debug\02Wormhole.exe
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals (Extended) Exam - 30 April 2017 Part I\exam\02Wormhole\bin\Debug\02Wormhole.pdb
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals (Extended) Exam - 30 April 2017 Part I\exam\02Wormhole\obj\Debug\02Wormhole.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals (Extended) Exam - 30 April 2017 Part I\exam\02Wormhole\obj\Debug\02Wormhole.exe
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals (Extended) Exam - 30 April 2017 Part I\exam\02Wormhole\obj\Debug\02Wormhole.pdb

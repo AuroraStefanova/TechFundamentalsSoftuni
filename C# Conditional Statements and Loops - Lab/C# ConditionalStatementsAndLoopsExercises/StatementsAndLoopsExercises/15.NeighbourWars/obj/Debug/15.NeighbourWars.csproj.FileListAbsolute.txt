@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\15.NeighbourWars\bin\Debug\15.NeighbourWars.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\15.NeighbourWars\bin\Debug\15.NeighbourWars.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\15.NeighbourWars\bin\Debug\15.NeighbourWars.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\15.NeighbourWars\obj\Debug\15.NeighbourWars.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\15.NeighbourWars\obj\Debug\15.NeighbourWars.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\15.NeighbourWars\obj\Debug\15.NeighbourWars.pdb

@@ -1,0 +1,5 @@
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\03.SmallestElementInArray\bin\Debug\03.SmallestElementInArray.exe.config
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\03.SmallestElementInArray\bin\Debug\03.SmallestElementInArray.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\03.SmallestElementInArray\bin\Debug\03.SmallestElementInArray.pdb
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\03.SmallestElementInArray\obj\Debug\03.SmallestElementInArray.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\03.SmallestElementInArray\obj\Debug\03.SmallestElementInArray.pdb

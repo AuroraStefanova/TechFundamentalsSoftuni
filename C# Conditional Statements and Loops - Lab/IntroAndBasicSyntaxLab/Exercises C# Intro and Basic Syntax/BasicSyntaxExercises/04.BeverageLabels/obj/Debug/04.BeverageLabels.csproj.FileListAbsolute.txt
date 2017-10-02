@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\04.BeverageLabels\bin\Debug\04.BeverageLabels.exe.config
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\04.BeverageLabels\bin\Debug\04.BeverageLabels.exe
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\04.BeverageLabels\bin\Debug\04.BeverageLabels.pdb
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\04.BeverageLabels\obj\Debug\04.BeverageLabels.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\04.BeverageLabels\obj\Debug\04.BeverageLabels.exe
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\04.BeverageLabels\obj\Debug\04.BeverageLabels.pdb

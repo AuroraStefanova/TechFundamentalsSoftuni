@@ -1,0 +1,6 @@
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\05.CountOfOddNumbersInArray\bin\Debug\05.CountOfOddNumbersInArray.exe.config
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\05.CountOfOddNumbersInArray\bin\Debug\05.CountOfOddNumbersInArray.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\05.CountOfOddNumbersInArray\bin\Debug\05.CountOfOddNumbersInArray.pdb
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\05.CountOfOddNumbersInArray\obj\Debug\05.CountOfOddNumbersInArray.csprojResolveAssemblyReference.cache
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\05.CountOfOddNumbersInArray\obj\Debug\05.CountOfOddNumbersInArray.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\05.CountOfOddNumbersInArray\obj\Debug\05.CountOfOddNumbersInArray.pdb

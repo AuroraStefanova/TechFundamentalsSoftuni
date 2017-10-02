@@ -1,0 +1,3 @@
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\0202\bin\Debug\0202.exe.config
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\0202\obj\Debug\0202.exe
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\0202\obj\Debug\0202.pdb

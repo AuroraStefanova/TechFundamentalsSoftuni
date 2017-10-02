@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\05.RefactorSpecialNum\bin\Debug\05.RefactorSpecialNum.exe.config
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\05.RefactorSpecialNum\bin\Debug\05.RefactorSpecialNum.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\05.RefactorSpecialNum\bin\Debug\05.RefactorSpecialNum.pdb
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\05.RefactorSpecialNum\obj\Debug\05.RefactorSpecialNum.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\05.RefactorSpecialNum\obj\Debug\05.RefactorSpecialNum.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\05.RefactorSpecialNum\obj\Debug\05.RefactorSpecialNum.pdb

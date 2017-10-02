@@ -1,0 +1,5 @@
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Exercises\ArraysExercises\02.9. Largest Element in Array\bin\Debug\_02._9.Largest_Element_in_Array.exe.config
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Exercises\ArraysExercises\02.9. Largest Element in Array\bin\Debug\_02._9.Largest_Element_in_Array.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Exercises\ArraysExercises\02.9. Largest Element in Array\bin\Debug\_02._9.Largest_Element_in_Array.pdb
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Exercises\ArraysExercises\02.9. Largest Element in Array\obj\Debug\_02._9.Largest_Element_in_Array.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Exercises\ArraysExercises\02.9. Largest Element in Array\obj\Debug\_02._9.Largest_Element_in_Array.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Wormtest", "01.Wormtest\01.Wormtest.csproj", "{72CE8927-7CC3-44F4-935E-DD6A03F8855D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Wormhole", "02Wormhole\02Wormhole.csproj", "{292135E0-BA36-4B72-9B71-E82BFE976F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WormIpsum", "03.WormIpsum\03.WormIpsum.csproj", "{B865DFD4-787B-44D9-9324-E25A663BE4A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72CE8927-7CC3-44F4-935E-DD6A03F8855D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CE8927-7CC3-44F4-935E-DD6A03F8855D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CE8927-7CC3-44F4-935E-DD6A03F8855D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CE8927-7CC3-44F4-935E-DD6A03F8855D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292135E0-BA36-4B72-9B71-E82BFE976F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292135E0-BA36-4B72-9B71-E82BFE976F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292135E0-BA36-4B72-9B71-E82BFE976F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292135E0-BA36-4B72-9B71-E82BFE976F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B865DFD4-787B-44D9-9324-E25A663BE4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B865DFD4-787B-44D9-9324-E25A663BE4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B865DFD4-787B-44D9-9324-E25A663BE4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B865DFD4-787B-44D9-9324-E25A663BE4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

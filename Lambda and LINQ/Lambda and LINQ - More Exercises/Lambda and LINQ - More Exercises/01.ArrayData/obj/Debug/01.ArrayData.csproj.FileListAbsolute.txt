@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - More Exercises\Lambda and LINQ - More Exercises\01.ArrayData\bin\Debug\01.ArrayData.exe.config

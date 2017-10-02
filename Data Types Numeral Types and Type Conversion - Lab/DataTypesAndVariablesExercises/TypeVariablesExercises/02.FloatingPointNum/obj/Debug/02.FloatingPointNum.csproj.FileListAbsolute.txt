@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\02.FloatingPointNum\bin\Debug\02.FloatingPointNum.exe.config

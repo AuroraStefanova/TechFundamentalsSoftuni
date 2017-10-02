@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\05.CharacterStats\bin\Debug\05.CharacterStats.exe.config
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\05.CharacterStats\bin\Debug\05.CharacterStats.exe
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\05.CharacterStats\bin\Debug\05.CharacterStats.pdb
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\05.CharacterStats\obj\Debug\05.CharacterStats.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\05.CharacterStats\obj\Debug\05.CharacterStats.exe
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\05.CharacterStats\obj\Debug\05.CharacterStats.pdb

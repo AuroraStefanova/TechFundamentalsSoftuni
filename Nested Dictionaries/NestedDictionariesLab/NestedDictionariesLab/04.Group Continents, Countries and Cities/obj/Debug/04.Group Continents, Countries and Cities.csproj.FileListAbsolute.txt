@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\04.Group Continents, Countries and Cities\bin\Debug\04.Group Continents, Countries and Cities.exe.config
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\04.Group Continents, Countries and Cities\bin\Debug\04.Group Continents, Countries and Cities.exe
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\04.Group Continents, Countries and Cities\bin\Debug\04.Group Continents, Countries and Cities.pdb
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\04.Group Continents, Countries and Cities\obj\Debug\04.Group Continents, Countries and Cities.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\04.Group Continents, Countries and Cities\obj\Debug\04.Group Continents, Countries and Cities.exe
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\04.Group Continents, Countries and Cities\obj\Debug\04.Group Continents, Countries and Cities.pdb

@@ -1,0 +1,6 @@
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Exercises\ArraysExercises\02.RotateAndSum\bin\Debug\02.RotateAndSum.exe.config
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Exercises\ArraysExercises\02.RotateAndSum\bin\Debug\02.RotateAndSum.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Exercises\ArraysExercises\02.RotateAndSum\bin\Debug\02.RotateAndSum.pdb
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Exercises\ArraysExercises\02.RotateAndSum\obj\Debug\01.RotateAndSum.csprojResolveAssemblyReference.cache
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Exercises\ArraysExercises\02.RotateAndSum\obj\Debug\02.RotateAndSum.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Exercises\ArraysExercises\02.RotateAndSum\obj\Debug\02.RotateAndSum.pdb

@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithmsMoreExerseces\ArrayAndListsAlgorithmsMoreExercises\03.MirrorImage\bin\Debug\03.MirrorImage.exe.config
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithmsMoreExerseces\ArrayAndListsAlgorithmsMoreExercises\03.MirrorImage\bin\Debug\03.MirrorImage.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithmsMoreExerseces\ArrayAndListsAlgorithmsMoreExercises\03.MirrorImage\bin\Debug\03.MirrorImage.pdb
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithmsMoreExerseces\ArrayAndListsAlgorithmsMoreExercises\03.MirrorImage\obj\Debug\03.MirrorImage.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithmsMoreExerseces\ArrayAndListsAlgorithmsMoreExercises\03.MirrorImage\obj\Debug\03.MirrorImage.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithmsMoreExerseces\ArrayAndListsAlgorithmsMoreExercises\03.MirrorImage\obj\Debug\03.MirrorImage.pdb

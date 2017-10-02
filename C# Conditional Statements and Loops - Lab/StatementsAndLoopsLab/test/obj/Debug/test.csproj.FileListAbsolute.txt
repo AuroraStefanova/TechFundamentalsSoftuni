@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\test\bin\Debug\test.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\test\bin\Debug\test.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\test\bin\Debug\test.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\test\obj\Debug\test.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\test\obj\Debug\test.pdb

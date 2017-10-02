@@ -1,0 +1,2 @@
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\03.RestaurantDiscount\bin\Debug\03.RestaurantDiscount.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\03.RestaurantDiscount\bin\Debug\03.RestaurantDiscount.exe.config

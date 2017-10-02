@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\08.SumOfOddNumbers\bin\Debug\08.SumOfOddNumbers.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\08.SumOfOddNumbers\bin\Debug\08.SumOfOddNumbers.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\08.SumOfOddNumbers\bin\Debug\08.SumOfOddNumbers.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\08.SumOfOddNumbers\obj\Debug\08.SumOfOddNumbers.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\08.SumOfOddNumbers\obj\Debug\08.SumOfOddNumbers.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\08.SumOfOddNumbers\obj\Debug\08.SumOfOddNumbers.pdb

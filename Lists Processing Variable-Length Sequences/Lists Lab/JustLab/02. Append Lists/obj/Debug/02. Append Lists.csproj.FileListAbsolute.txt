@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\JustLab\02. Append Lists\bin\Debug\_02.Append_Lists.exe.config
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\JustLab\02. Append Lists\bin\Debug\_02.Append_Lists.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\JustLab\02. Append Lists\bin\Debug\_02.Append_Lists.pdb
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\JustLab\02. Append Lists\obj\Debug\02. Append Lists.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\JustLab\02. Append Lists\obj\Debug\_02.Append_Lists.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\JustLab\02. Append Lists\obj\Debug\_02.Append_Lists.pdb

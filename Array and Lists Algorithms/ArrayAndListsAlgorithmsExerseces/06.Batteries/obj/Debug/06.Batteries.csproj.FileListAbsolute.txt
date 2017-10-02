@@ -1,0 +1,7 @@
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListsAlgorithms\06.Batteries\bin\Debug\06.Batteries.exe.config
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListsAlgorithmsExerseces\06.Batteries\bin\Debug\06.Batteries.exe.config
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListsAlgorithmsExerseces\06.Batteries\bin\Debug\06.Batteries.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListsAlgorithmsExerseces\06.Batteries\bin\Debug\06.Batteries.pdb
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListsAlgorithmsExerseces\06.Batteries\obj\Debug\06.Batteries.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListsAlgorithmsExerseces\06.Batteries\obj\Debug\06.Batteries.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListsAlgorithmsExerseces\06.Batteries\obj\Debug\06.Batteries.pdb

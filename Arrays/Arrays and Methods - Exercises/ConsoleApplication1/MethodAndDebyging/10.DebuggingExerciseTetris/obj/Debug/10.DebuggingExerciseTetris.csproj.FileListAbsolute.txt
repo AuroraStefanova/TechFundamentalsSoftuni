@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\10.DebuggingExerciseTetris\bin\Debug\10.DebuggingExerciseTetris.exe.config

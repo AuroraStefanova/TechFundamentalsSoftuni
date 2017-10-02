@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\05.CalculateTriangleArea\bin\Debug\05.CalculateTriangleArea.exe.config
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\05.CalculateTriangleArea\bin\Debug\05.CalculateTriangleArea.exe
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\05.CalculateTriangleArea\bin\Debug\05.CalculateTriangleArea.pdb
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\05.CalculateTriangleArea\obj\Debug\05.CalculateTriangleArea.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\05.CalculateTriangleArea\obj\Debug\05.CalculateTriangleArea.exe
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\05.CalculateTriangleArea\obj\Debug\05.CalculateTriangleArea.pdb

@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\Lambda and LINQ\LambdaAndLINQ\02. Largest 3 Numbers\bin\Debug\_02.Largest_3_Numbers.exe.config
+G:\SoftUni\TehFundamentals\Lambda and LINQ\LambdaAndLINQ\02. Largest 3 Numbers\bin\Debug\_02.Largest_3_Numbers.exe
+G:\SoftUni\TehFundamentals\Lambda and LINQ\LambdaAndLINQ\02. Largest 3 Numbers\bin\Debug\_02.Largest_3_Numbers.pdb
+G:\SoftUni\TehFundamentals\Lambda and LINQ\LambdaAndLINQ\02. Largest 3 Numbers\obj\Debug\_02.Largest_3_Numbers.exe
+G:\SoftUni\TehFundamentals\Lambda and LINQ\LambdaAndLINQ\02. Largest 3 Numbers\obj\Debug\_02.Largest_3_Numbers.pdb

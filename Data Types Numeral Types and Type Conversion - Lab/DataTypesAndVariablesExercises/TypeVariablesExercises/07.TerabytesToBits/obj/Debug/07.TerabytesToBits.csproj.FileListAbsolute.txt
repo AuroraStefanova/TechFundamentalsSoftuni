@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\07.TerabytesToBits\bin\Debug\07.TerabytesToBits.exe.config
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\07.TerabytesToBits\obj\Debug\07.TerabytesToBits.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\07.TerabytesToBits\bin\Debug\07.TerabytesToBits.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\07.TerabytesToBits\bin\Debug\07.TerabytesToBits.pdb
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\07.TerabytesToBits\obj\Debug\07.TerabytesToBits.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\07.TerabytesToBits\obj\Debug\07.TerabytesToBits.pdb

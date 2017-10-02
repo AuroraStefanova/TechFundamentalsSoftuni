@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\06.Fish\bin\Debug\06.Fish.exe.config
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\06.Fish\bin\Debug\06.Fish.exe
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\06.Fish\bin\Debug\06.Fish.pdb
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\06.Fish\obj\Debug\06.Fish.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\06.Fish\obj\Debug\06.Fish.exe
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\06.Fish\obj\Debug\06.Fish.pdb

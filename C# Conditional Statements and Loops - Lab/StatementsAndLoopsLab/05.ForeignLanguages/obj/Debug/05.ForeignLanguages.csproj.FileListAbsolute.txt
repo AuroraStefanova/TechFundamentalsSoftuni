@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\05.ForeignLanguages\bin\Debug\05.ForeignLanguages.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\05.ForeignLanguages\bin\Debug\05.ForeignLanguages.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\05.ForeignLanguages\bin\Debug\05.ForeignLanguages.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\05.ForeignLanguages\obj\Debug\05.ForeignLanguages.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\05.ForeignLanguages\obj\Debug\05.ForeignLanguages.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\05.ForeignLanguages\obj\Debug\05.ForeignLanguages.pdb

@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\02.Cities by Continent and Country\bin\Debug\02.Cities by Continent and Country.exe.config
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\02.Cities by Continent and Country\bin\Debug\02.Cities by Continent and Country.exe
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\02.Cities by Continent and Country\bin\Debug\02.Cities by Continent and Country.pdb
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\02.Cities by Continent and Country\obj\Debug\02.Cities by Continent and Country.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\02.Cities by Continent and Country\obj\Debug\02.Cities by Continent and Country.exe
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\02.Cities by Continent and Country\obj\Debug\02.Cities by Continent and Country.pdb

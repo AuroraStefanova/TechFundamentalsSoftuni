@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\02.PassedOrFailed\bin\Debug\02.PassedOrFailed.exe.config

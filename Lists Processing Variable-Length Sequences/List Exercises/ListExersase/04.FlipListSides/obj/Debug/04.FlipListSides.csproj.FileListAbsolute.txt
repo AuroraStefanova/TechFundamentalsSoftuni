@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\04.FlipListSides\bin\Debug\04.FlipListSides.exe.config
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\04.FlipListSides\obj\Debug\04.FlipListSides.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\04.FlipListSides\bin\Debug\04.FlipListSides.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\04.FlipListSides\bin\Debug\04.FlipListSides.pdb
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\04.FlipListSides\obj\Debug\04.FlipListSides.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\04.FlipListSides\obj\Debug\04.FlipListSides.pdb

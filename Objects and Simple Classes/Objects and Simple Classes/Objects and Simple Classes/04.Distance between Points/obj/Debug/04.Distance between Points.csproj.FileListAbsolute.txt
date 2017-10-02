@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\04.Distance between Points\bin\Debug\04.Distance between Points.exe.config
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\04.Distance between Points\bin\Debug\04.Distance between Points.exe
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\04.Distance between Points\bin\Debug\04.Distance between Points.pdb
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\04.Distance between Points\obj\Debug\04.Distance between Points.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\04.Distance between Points\obj\Debug\04.Distance between Points.exe
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\04.Distance between Points\obj\Debug\04.Distance between Points.pdb

@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\06.Sentence Split\bin\Debug\06.Sentence Split.exe.config

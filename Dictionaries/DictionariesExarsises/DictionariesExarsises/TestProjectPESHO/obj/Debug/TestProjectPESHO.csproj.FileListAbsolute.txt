@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\TestProjectPESHO\bin\Debug\TestProjectPESHO.exe.config
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\TestProjectPESHO\bin\Debug\TestProjectPESHO.exe
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\TestProjectPESHO\bin\Debug\TestProjectPESHO.pdb
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\TestProjectPESHO\obj\Debug\TestProjectPESHO.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\TestProjectPESHO\obj\Debug\TestProjectPESHO.exe
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\TestProjectPESHO\obj\Debug\TestProjectPESHO.pdb

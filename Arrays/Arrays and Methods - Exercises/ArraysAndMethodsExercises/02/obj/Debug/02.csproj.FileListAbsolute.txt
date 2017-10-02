@@ -1,0 +1,3 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\02\bin\Debug\02.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\02\obj\Debug\02.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\02\obj\Debug\02.pdb

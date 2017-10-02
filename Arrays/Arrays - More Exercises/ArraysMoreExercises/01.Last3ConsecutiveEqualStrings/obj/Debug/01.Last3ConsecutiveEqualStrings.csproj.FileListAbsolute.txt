@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\01.Last3ConsecutiveEqualStrings\bin\Debug\01.Last3ConsecutiveEqualStrings.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\01.Last3ConsecutiveEqualStrings\bin\Debug\01.Last3ConsecutiveEqualStrings.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\01.Last3ConsecutiveEqualStrings\bin\Debug\01.Last3ConsecutiveEqualStrings.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\01.Last3ConsecutiveEqualStrings\obj\Debug\01.Last3ConsecutiveEqualStrings.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\01.Last3ConsecutiveEqualStrings\obj\Debug\01.Last3ConsecutiveEqualStrings.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\01.Last3ConsecutiveEqualStrings\obj\Debug\01.Last3ConsecutiveEqualStrings.pdb

@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\011.Cards\bin\Debug\011.Cards.exe.config

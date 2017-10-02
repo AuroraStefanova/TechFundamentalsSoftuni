@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\03.StringRepeater\bin\Debug\03.StringRepeater.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\03.StringRepeater\bin\Debug\03.StringRepeater.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\03.StringRepeater\bin\Debug\03.StringRepeater.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\03.StringRepeater\obj\Debug\03.StringRepeater.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\03.StringRepeater\obj\Debug\03.StringRepeater.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\03.StringRepeater\obj\Debug\03.StringRepeater.pdb

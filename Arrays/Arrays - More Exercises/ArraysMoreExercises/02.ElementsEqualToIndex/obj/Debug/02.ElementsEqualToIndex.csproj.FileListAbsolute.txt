@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\02.ElementsEqualToIndex\bin\Debug\02.ElementsEqualToIndex.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\02.ElementsEqualToIndex\bin\Debug\02.ElementsEqualToIndex.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\02.ElementsEqualToIndex\bin\Debug\02.ElementsEqualToIndex.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\02.ElementsEqualToIndex\obj\Debug\02.ElementsEqualToIndex.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\02.ElementsEqualToIndex\obj\Debug\02.ElementsEqualToIndex.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\02.ElementsEqualToIndex\obj\Debug\02.ElementsEqualToIndex.pdb

@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays\02.MultiplyArrayOfDouble\bin\Debug\02.MultiplyArrayOfDouble.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays\02.MultiplyArrayOfDouble\bin\Debug\02.MultiplyArrayOfDouble.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays\02.MultiplyArrayOfDouble\bin\Debug\02.MultiplyArrayOfDouble.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays\02.MultiplyArrayOfDouble\obj\Debug\02.MultiplyArrayOfDouble.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Arrays\Arrays\02.MultiplyArrayOfDouble\obj\Debug\02.MultiplyArrayOfDouble.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays\02.MultiplyArrayOfDouble\obj\Debug\02.MultiplyArrayOfDouble.pdb

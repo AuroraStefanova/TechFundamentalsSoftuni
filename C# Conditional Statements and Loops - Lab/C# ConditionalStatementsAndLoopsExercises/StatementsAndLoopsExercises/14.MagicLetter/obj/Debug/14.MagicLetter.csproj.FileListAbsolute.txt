@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\14.MagicLetter\bin\Debug\14.MagicLetter.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\14.MagicLetter\bin\Debug\14.MagicLetter.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\14.MagicLetter\bin\Debug\14.MagicLetter.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\14.MagicLetter\obj\Debug\14.MagicLetter.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\14.MagicLetter\obj\Debug\14.MagicLetter.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\14.MagicLetter\obj\Debug\14.MagicLetter.pdb

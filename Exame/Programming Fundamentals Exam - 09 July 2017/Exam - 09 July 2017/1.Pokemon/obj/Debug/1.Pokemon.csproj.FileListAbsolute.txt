@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\1.Pokemon\bin\Debug\1.Pokemon.exe.config
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\1.Pokemon\bin\Debug\1.Pokemon.exe
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\1.Pokemon\bin\Debug\1.Pokemon.pdb
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\1.Pokemon\obj\Debug\1.Pokemon.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\1.Pokemon\obj\Debug\1.Pokemon.exe
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\1.Pokemon\obj\Debug\1.Pokemon.pdb

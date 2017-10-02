@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\03.Megapixels\bin\Debug\03.Megapixels.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\03.Megapixels\bin\Debug\03.Megapixels.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\03.Megapixels\bin\Debug\03.Megapixels.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\03.Megapixels\obj\Debug\03.Megapixels.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\03.Megapixels\obj\Debug\03.Megapixels.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\03.Megapixels\obj\Debug\03.Megapixels.pdb

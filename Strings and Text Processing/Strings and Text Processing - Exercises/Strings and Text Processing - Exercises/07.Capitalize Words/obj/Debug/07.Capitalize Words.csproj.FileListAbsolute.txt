@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\07.Capitalize Words\bin\Debug\07.Capitalize Words.exe.config

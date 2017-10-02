@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\03.Record Unique Names\bin\Debug\03.Record Unique Names.exe.config
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\03.Record Unique Names\bin\Debug\03.Record Unique Names.exe
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\03.Record Unique Names\bin\Debug\03.Record Unique Names.pdb
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\03.Record Unique Names\obj\Debug\03.Record Unique Names.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\03.Record Unique Names\obj\Debug\03.Record Unique Names.exe
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesLab\NestedDictionariesLab\03.Record Unique Names\obj\Debug\03.Record Unique Names.pdb

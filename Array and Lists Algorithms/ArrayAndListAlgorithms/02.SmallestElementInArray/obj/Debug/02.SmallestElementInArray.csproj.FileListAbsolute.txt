@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\02.SmallestElementInArray\bin\Debug\02.SmallestElementInArray.exe.config
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\02.SmallestElementInArray\bin\Debug\02.SmallestElementInArray.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\02.SmallestElementInArray\bin\Debug\02.SmallestElementInArray.pdb
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\02.SmallestElementInArray\obj\Debug\02.SmallestElementInArray.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\02.SmallestElementInArray\obj\Debug\02.SmallestElementInArray.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\02.SmallestElementInArray\obj\Debug\02.SmallestElementInArray.pdb

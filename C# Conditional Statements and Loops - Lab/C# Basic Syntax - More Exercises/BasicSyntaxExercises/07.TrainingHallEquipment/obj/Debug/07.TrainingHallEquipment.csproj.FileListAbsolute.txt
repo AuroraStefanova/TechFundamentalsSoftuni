@@ -1,0 +1,7 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\07.TrainingHallEquipment\bin\Debug\07.TrainingHallEquipment.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\07.TrainingHallEquipment\bin\Debug\07.TrainingHallEquipment.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\07.TrainingHallEquipment\bin\Debug\07.TrainingHallEquipment.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\07.TrainingHallEquipment\obj\Debug\07.TrainingHallEquipment.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\07.TrainingHallEquipment\obj\Debug\07.TrainingHallEquipment.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\07.TrainingHallEquipment\bin\Debug\07.TrainingHallEquipment.exe.CodeAnalysisLog.xml
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\07.TrainingHallEquipment\bin\Debug\07.TrainingHallEquipment.exe.lastcodeanalysissucceeded

@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\08.ArraySymmetry\bin\Debug\08.ArraySymmetry.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\08.ArraySymmetry\bin\Debug\08.ArraySymmetry.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\08.ArraySymmetry\bin\Debug\08.ArraySymmetry.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\08.ArraySymmetry\obj\Debug\08.ArraySymmetry.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\08.ArraySymmetry\obj\Debug\08.ArraySymmetry.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\08.ArraySymmetry\obj\Debug\08.ArraySymmetry.pdb

@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\14.ASCIIString\bin\Debug\14.ASCIIString.exe.config

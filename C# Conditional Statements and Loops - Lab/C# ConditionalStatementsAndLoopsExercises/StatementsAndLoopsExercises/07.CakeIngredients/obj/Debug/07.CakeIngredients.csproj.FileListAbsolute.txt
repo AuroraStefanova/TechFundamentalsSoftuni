@@ -1,0 +1,12 @@
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\07.CakeIngredients\bin\Debug\07.CakeIngredients.exe.config
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\07.CakeIngredients\bin\Debug\07.CakeIngredients.exe
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\07.CakeIngredients\bin\Debug\07.CakeIngredients.pdb
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\07.CakeIngredients\obj\Debug\07.CakeIngredients.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\07.CakeIngredients\obj\Debug\07.CakeIngredients.exe
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\07.CakeIngredients\obj\Debug\07.CakeIngredients.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\07.CakeIngredients\bin\Debug\07.CakeIngredients.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\07.CakeIngredients\obj\Debug\07.CakeIngredients.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\07.CakeIngredients\obj\Debug\07.CakeIngredients.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\07.CakeIngredients\bin\Debug\07.CakeIngredients.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\07.CakeIngredients\bin\Debug\07.CakeIngredients.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\07.CakeIngredients\obj\Debug\07.CakeIngredients.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\04.FloatOrInteger\bin\Debug\04.FloatOrInteger.exe.config
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\04.FloatOrInteger\bin\Debug\04.FloatOrInteger.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\04.FloatOrInteger\bin\Debug\04.FloatOrInteger.pdb
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\04.FloatOrInteger\obj\Debug\04.FloatOrInteger.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\04.FloatOrInteger\obj\Debug\04.FloatOrInteger.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\04.FloatOrInteger\obj\Debug\04.FloatOrInteger.pdb

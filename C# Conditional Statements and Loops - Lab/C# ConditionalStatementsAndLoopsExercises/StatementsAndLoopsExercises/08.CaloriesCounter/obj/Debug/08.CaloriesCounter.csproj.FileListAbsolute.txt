@@ -1,0 +1,2 @@
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.exe.config

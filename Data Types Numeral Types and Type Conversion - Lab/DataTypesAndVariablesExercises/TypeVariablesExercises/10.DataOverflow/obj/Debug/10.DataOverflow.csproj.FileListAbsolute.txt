@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\10.DataOverflow\bin\Debug\10.DataOverflow.exe.config
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\10.DataOverflow\bin\Debug\10.DataOverflow.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\10.DataOverflow\bin\Debug\10.DataOverflow.pdb
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\10.DataOverflow\obj\Debug\10.DataOverflow.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\10.DataOverflow\obj\Debug\10.DataOverflow.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\10.DataOverflow\obj\Debug\10.DataOverflow.pdb

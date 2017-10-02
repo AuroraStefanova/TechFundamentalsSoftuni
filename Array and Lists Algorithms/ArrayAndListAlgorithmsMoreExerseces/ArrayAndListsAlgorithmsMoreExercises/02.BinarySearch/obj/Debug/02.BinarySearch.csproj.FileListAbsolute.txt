@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithmsMoreExerseces\ArrayAndListsAlgorithmsMoreExercises\02.BinarySearch\bin\Debug\02.BinarySearch.exe.config
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithmsMoreExerseces\ArrayAndListsAlgorithmsMoreExercises\02.BinarySearch\bin\Debug\02.BinarySearch.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithmsMoreExerseces\ArrayAndListsAlgorithmsMoreExercises\02.BinarySearch\bin\Debug\02.BinarySearch.pdb
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithmsMoreExerseces\ArrayAndListsAlgorithmsMoreExercises\02.BinarySearch\obj\Debug\02.BinarySearch.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithmsMoreExerseces\ArrayAndListsAlgorithmsMoreExercises\02.BinarySearch\obj\Debug\02.BinarySearch.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithmsMoreExerseces\ArrayAndListsAlgorithmsMoreExercises\02.BinarySearch\obj\Debug\02.BinarySearch.pdb

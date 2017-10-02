@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\07.ResizableArray\bin\Debug\07.ResizableArray.exe.config

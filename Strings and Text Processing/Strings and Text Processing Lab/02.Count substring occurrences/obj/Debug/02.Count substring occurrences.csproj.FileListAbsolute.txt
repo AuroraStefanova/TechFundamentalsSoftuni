@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing Lab\02.Count substring occurrences\bin\Debug\02.Count substring occurrences.exe.config
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing Lab\02.Count substring occurrences\bin\Debug\02.Count substring occurrences.exe
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing Lab\02.Count substring occurrences\bin\Debug\02.Count substring occurrences.pdb
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing Lab\02.Count substring occurrences\obj\Debug\02.Count substring occurrences.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing Lab\02.Count substring occurrences\obj\Debug\02.Count substring occurrences.exe
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing Lab\02.Count substring occurrences\obj\Debug\02.Count substring occurrences.pdb

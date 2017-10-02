@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\02.MinMethod\bin\Debug\02.MinMethod.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\02.MinMethod\bin\Debug\02.MinMethod.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\02.MinMethod\bin\Debug\02.MinMethod.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\02.MinMethod\obj\Debug\02.MinMethod.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\02.MinMethod\obj\Debug\02.MinMethod.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\02.MinMethod\obj\Debug\02.MinMethod.pdb

@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays\03.SmallestElementInArray\bin\Debug\03.SmallestElementInArray.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays\03.SmallestElementInArray\bin\Debug\03.SmallestElementInArray.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays\03.SmallestElementInArray\bin\Debug\03.SmallestElementInArray.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays\03.SmallestElementInArray\obj\Debug\03.SmallestElementInArray.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Arrays\Arrays\03.SmallestElementInArray\obj\Debug\03.SmallestElementInArray.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays\03.SmallestElementInArray\obj\Debug\03.SmallestElementInArray.pdb

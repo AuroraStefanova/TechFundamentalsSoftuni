@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\02, Pokemon Don’t Go\bin\Debug\02, Pokemon Don’t Go.exe.config
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\02, Pokemon Don’t Go\bin\Debug\02, Pokemon Don’t Go.exe
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\02, Pokemon Don’t Go\bin\Debug\02, Pokemon Don’t Go.pdb
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\02, Pokemon Don’t Go\obj\Debug\02, Pokemon Don’t Go.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\02, Pokemon Don’t Go\obj\Debug\02, Pokemon Don’t Go.exe
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\02, Pokemon Don’t Go\obj\Debug\02, Pokemon Don’t Go.pdb

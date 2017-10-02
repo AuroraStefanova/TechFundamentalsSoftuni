@@ -1,0 +1,6 @@
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\04.RotateArrayOfStrings\bin\Debug\04.RotateArrayOfStrings.exe.config
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\04.RotateArrayOfStrings\bin\Debug\04.RotateArrayOfStrings.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\04.RotateArrayOfStrings\bin\Debug\04.RotateArrayOfStrings.pdb
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\04.RotateArrayOfStrings\obj\Debug\04.RotateArrayOfStrings.csprojResolveAssemblyReference.cache
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\04.RotateArrayOfStrings\obj\Debug\04.RotateArrayOfStrings.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\04.RotateArrayOfStrings\obj\Debug\04.RotateArrayOfStrings.pdb

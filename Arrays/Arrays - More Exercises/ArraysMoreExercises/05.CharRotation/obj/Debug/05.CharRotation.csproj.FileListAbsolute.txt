@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\05.CharRotation\bin\Debug\05.CharRotation.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\05.CharRotation\bin\Debug\05.CharRotation.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\05.CharRotation\bin\Debug\05.CharRotation.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\05.CharRotation\obj\Debug\05.CharRotation.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\05.CharRotation\obj\Debug\05.CharRotation.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\05.CharRotation\obj\Debug\05.CharRotation.pdb

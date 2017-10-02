@@ -1,0 +1,8 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\02.vaporStore\bin\Debug\02.vaporStore.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\02.vaporStore\bin\Debug\02.vaporStore.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\02.vaporStore\bin\Debug\02.vaporStore.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\02.vaporStore\bin\Debug\02.vaporStore.exe.CodeAnalysisLog.xml
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\02.vaporStore\bin\Debug\02.vaporStore.exe.lastcodeanalysissucceeded
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\02.vaporStore\obj\Debug\02.vaporStore.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\02.vaporStore\obj\Debug\02.vaporStore.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\02.vaporStore\obj\Debug\02.vaporStore.pdb

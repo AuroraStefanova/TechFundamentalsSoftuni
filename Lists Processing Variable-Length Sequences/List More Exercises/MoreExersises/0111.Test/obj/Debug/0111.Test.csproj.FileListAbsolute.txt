@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\0111.Test\bin\Debug\0111.Test.exe.config
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\0111.Test\bin\Debug\0111.Test.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\0111.Test\bin\Debug\0111.Test.pdb
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\0111.Test\obj\Debug\0111.Test.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\0111.Test\obj\Debug\0111.Test.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\0111.Test\obj\Debug\0111.Test.pdb

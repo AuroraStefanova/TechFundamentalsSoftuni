@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\05.NoteStatistics\bin\Debug\05.NoteStatistics.exe.config
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\05.NoteStatistics\bin\Debug\05.NoteStatistics.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\05.NoteStatistics\bin\Debug\05.NoteStatistics.pdb
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\05.NoteStatistics\obj\Debug\05.NoteStatistics.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\05.NoteStatistics\obj\Debug\05.NoteStatistics.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\05.NoteStatistics\obj\Debug\05.NoteStatistics.pdb

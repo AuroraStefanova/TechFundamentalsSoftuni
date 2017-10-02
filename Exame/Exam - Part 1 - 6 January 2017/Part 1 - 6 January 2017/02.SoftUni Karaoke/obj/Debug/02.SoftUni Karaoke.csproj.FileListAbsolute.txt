@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Exame\Exam - Part 1 - 6 January 2017\Part 1 - 6 January 2017\02.SoftUni Karaoke\bin\Debug\02.SoftUni Karaoke.exe.config
+G:\SoftUni\TehFundamentals\Exame\Exam - Part 1 - 6 January 2017\Part 1 - 6 January 2017\02.SoftUni Karaoke\bin\Debug\02.SoftUni Karaoke.exe
+G:\SoftUni\TehFundamentals\Exame\Exam - Part 1 - 6 January 2017\Part 1 - 6 January 2017\02.SoftUni Karaoke\bin\Debug\02.SoftUni Karaoke.pdb
+G:\SoftUni\TehFundamentals\Exame\Exam - Part 1 - 6 January 2017\Part 1 - 6 January 2017\02.SoftUni Karaoke\obj\Debug\02.SoftUni Karaoke.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Exame\Exam - Part 1 - 6 January 2017\Part 1 - 6 January 2017\02.SoftUni Karaoke\obj\Debug\02.SoftUni Karaoke.exe
+G:\SoftUni\TehFundamentals\Exame\Exam - Part 1 - 6 January 2017\Part 1 - 6 January 2017\02.SoftUni Karaoke\obj\Debug\02.SoftUni Karaoke.pdb

@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\03.MilesToKilometers\bin\Debug\03.MilesToKilometers.exe.config
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\03.MilesToKilometers\bin\Debug\03.MilesToKilometers.exe
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\03.MilesToKilometers\bin\Debug\03.MilesToKilometers.pdb
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\03.MilesToKilometers\obj\Debug\03.MilesToKilometers.exe
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\03.MilesToKilometers\obj\Debug\03.MilesToKilometers.pdb

@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\03.EchangeVariable\bin\Debug\03.EchangeVariable.exe.config
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\03.EchangeVariable\bin\Debug\03.EchangeVariable.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\03.EchangeVariable\bin\Debug\03.EchangeVariable.pdb
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\03.EchangeVariable\obj\Debug\03.EchangeVariable.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\03.EchangeVariable\obj\Debug\03.EchangeVariable.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\03.EchangeVariable\obj\Debug\03.EchangeVariable.pdb

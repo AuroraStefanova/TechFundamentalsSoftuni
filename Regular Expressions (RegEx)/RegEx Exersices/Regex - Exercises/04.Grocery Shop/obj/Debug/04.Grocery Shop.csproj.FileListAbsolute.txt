@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\04.Grocery Shop\bin\Debug\04.Grocery Shop.exe.config
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\04.Grocery Shop\bin\Debug\04.Grocery Shop.exe
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\04.Grocery Shop\bin\Debug\04.Grocery Shop.pdb
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\04.Grocery Shop\obj\Debug\04.Grocery Shop.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\04.Grocery Shop\obj\Debug\04.Grocery Shop.exe
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\04.Grocery Shop\obj\Debug\04.Grocery Shop.pdb

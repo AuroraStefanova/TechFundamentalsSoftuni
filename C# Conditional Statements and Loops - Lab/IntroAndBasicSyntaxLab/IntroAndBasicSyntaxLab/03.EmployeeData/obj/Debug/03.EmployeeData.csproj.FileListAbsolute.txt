@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\IntroAndBasicSyntaxLab\03.EmployeeData\bin\Debug\03.EmployeeData.exe.config
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\IntroAndBasicSyntaxLab\03.EmployeeData\bin\Debug\03.EmployeeData.exe
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\IntroAndBasicSyntaxLab\03.EmployeeData\bin\Debug\03.EmployeeData.pdb
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\IntroAndBasicSyntaxLab\03.EmployeeData\obj\Debug\03.EmployeeData.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\IntroAndBasicSyntaxLab\03.EmployeeData\obj\Debug\03.EmployeeData.exe
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\IntroAndBasicSyntaxLab\03.EmployeeData\obj\Debug\03.EmployeeData.pdb

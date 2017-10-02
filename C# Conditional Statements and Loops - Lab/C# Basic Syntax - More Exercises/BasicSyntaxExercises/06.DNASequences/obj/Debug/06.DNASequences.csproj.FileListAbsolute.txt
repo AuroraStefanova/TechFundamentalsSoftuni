@@ -1,0 +1,7 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\06.DNASequences\bin\Debug\06.DNASequences.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\06.DNASequences\bin\Debug\06.DNASequences.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\06.DNASequences\bin\Debug\06.DNASequences.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\06.DNASequences\obj\Debug\06.DNASequences.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\06.DNASequences\obj\Debug\06.DNASequences.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\06.DNASequences\bin\Debug\06.DNASequences.exe.CodeAnalysisLog.xml
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\06.DNASequences\bin\Debug\06.DNASequences.exe.lastcodeanalysissucceeded

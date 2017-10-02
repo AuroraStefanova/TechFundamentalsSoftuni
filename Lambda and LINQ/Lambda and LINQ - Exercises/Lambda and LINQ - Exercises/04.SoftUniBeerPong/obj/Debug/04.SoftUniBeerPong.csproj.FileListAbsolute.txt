@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\04.SoftUniBeerPong\bin\Debug\04.SoftUniBeerPong.exe.config
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\04.SoftUniBeerPong\bin\Debug\04.SoftUniBeerPong.exe
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\04.SoftUniBeerPong\bin\Debug\04.SoftUniBeerPong.pdb
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\04.SoftUniBeerPong\obj\Debug\04.SoftUniBeerPong.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\04.SoftUniBeerPong\obj\Debug\04.SoftUniBeerPong.exe
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\04.SoftUniBeerPong\obj\Debug\04.SoftUniBeerPong.pdb

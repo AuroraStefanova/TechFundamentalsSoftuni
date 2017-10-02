@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\02.TrackDownloader\bin\Debug\02.TrackDownloader.exe.config
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\02.TrackDownloader\bin\Debug\02.TrackDownloader.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\02.TrackDownloader\bin\Debug\02.TrackDownloader.pdb
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\02.TrackDownloader\obj\Debug\02.TrackDownloader.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\02.TrackDownloader\obj\Debug\02.TrackDownloader.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\02.TrackDownloader\obj\Debug\02.TrackDownloader.pdb

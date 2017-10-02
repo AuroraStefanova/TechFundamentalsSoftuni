@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\Exame\Extended Retake Exam - 09 May 2017 Part I\01.Splinter Trip\03.spyfer\bin\Debug\03.spyfer.exe.config
+G:\SoftUni\TehFundamentals\Exame\Extended Retake Exam - 09 May 2017 Part I\01.Splinter Trip\03.spyfer\bin\Debug\03.spyfer.exe
+G:\SoftUni\TehFundamentals\Exame\Extended Retake Exam - 09 May 2017 Part I\01.Splinter Trip\03.spyfer\bin\Debug\03.spyfer.pdb
+G:\SoftUni\TehFundamentals\Exame\Extended Retake Exam - 09 May 2017 Part I\01.Splinter Trip\03.spyfer\obj\Debug\03.spyfer.exe
+G:\SoftUni\TehFundamentals\Exame\Extended Retake Exam - 09 May 2017 Part I\01.Splinter Trip\03.spyfer\obj\Debug\03.spyfer.pdb

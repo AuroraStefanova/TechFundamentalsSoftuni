@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\DataTypesAndVariablesExercises\TypeVariablesExercises\07.TerabytesToBits\bin\Release\07.TerabytesToBits.exe.config

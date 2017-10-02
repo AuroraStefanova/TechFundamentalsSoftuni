@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\03.EqualSumAfter\bin\Debug\03.EqualSumAfter.exe.config

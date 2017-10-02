@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\06.Winecraft\bin\Debug\06.Winecraft.exe.config
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\06.Winecraft\bin\Debug\06.Winecraft.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\06.Winecraft\bin\Debug\06.Winecraft.pdb
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\06.Winecraft\obj\Debug\06.Winecraft.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\06.Winecraft\obj\Debug\06.Winecraft.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\06.Winecraft\obj\Debug\06.Winecraft.pdb

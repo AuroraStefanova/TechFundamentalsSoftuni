@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\05.TearListInHalf\bin\Debug\05.TearListInHalf.exe.config
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\05.TearListInHalf\bin\Debug\05.TearListInHalf.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\05.TearListInHalf\bin\Debug\05.TearListInHalf.pdb
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\05.TearListInHalf\obj\Debug\05.TearListInHalf.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\05.TearListInHalf\obj\Debug\05.TearListInHalf.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List Exercises\ListExersase\05.TearListInHalf\obj\Debug\05.TearListInHalf.pdb

@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - More Exercises\Lambda and LINQ - More Exercises\02.StringDecryption\bin\Debug\02.StringDecryption.exe.config
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - More Exercises\Lambda and LINQ - More Exercises\02.StringDecryption\bin\Debug\02.StringDecryption.exe
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - More Exercises\Lambda and LINQ - More Exercises\02.StringDecryption\bin\Debug\02.StringDecryption.pdb
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - More Exercises\Lambda and LINQ - More Exercises\02.StringDecryption\obj\Debug\02.StringDecryption.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - More Exercises\Lambda and LINQ - More Exercises\02.StringDecryption\obj\Debug\02.StringDecryption.exe
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - More Exercises\Lambda and LINQ - More Exercises\02.StringDecryption\obj\Debug\02.StringDecryption.pdb

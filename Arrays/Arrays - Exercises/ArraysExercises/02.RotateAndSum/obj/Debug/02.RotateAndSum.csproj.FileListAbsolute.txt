@@ -1,0 +1,1 @@
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Exercises\ArraysExercises\02.RotateAndSum\bin\Debug\02.RotateAndSum.exe.config

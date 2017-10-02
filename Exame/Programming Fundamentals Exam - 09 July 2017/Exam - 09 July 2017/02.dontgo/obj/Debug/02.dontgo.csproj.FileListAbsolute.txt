@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\02.dontgo\bin\Debug\02.dontgo.exe.config
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\02.dontgo\bin\Debug\02.dontgo.exe
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\02.dontgo\bin\Debug\02.dontgo.pdb
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\02.dontgo\obj\Debug\02.dontgo.exe
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\02.dontgo\obj\Debug\02.dontgo.pdb
+G:\SoftUni\TehFundamentals\Exame\Programming Fundamentals Exam - 09 July 2017\Exam - 09 July 2017\02.dontgo\obj\Debug\02.dontgo.csprojResolveAssemblyReference.cache

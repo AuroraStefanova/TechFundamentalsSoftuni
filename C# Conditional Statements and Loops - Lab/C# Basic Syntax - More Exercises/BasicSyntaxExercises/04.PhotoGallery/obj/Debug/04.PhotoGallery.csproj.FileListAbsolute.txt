@@ -1,0 +1,8 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\04.PhotoGallery\bin\Debug\04.PhotoGallery.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\04.PhotoGallery\bin\Debug\04.PhotoGallery.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\04.PhotoGallery\bin\Debug\04.PhotoGallery.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\04.PhotoGallery\obj\Debug\04.PhotoGallery.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\04.PhotoGallery\obj\Debug\04.PhotoGallery.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\04.PhotoGallery\bin\Debug\04.PhotoGallery.exe.CodeAnalysisLog.xml
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\04.PhotoGallery\bin\Debug\04.PhotoGallery.exe.lastcodeanalysissucceeded
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\04.PhotoGallery\obj\Debug\04.PhotoGallery.csprojResolveAssemblyReference.cache

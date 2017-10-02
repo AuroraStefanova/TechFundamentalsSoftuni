@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - More Exercises\Lambda and LINQ - More Exercises\04.MostValuedCustomer\bin\Debug\04.MostValuedCustomer.exe.config

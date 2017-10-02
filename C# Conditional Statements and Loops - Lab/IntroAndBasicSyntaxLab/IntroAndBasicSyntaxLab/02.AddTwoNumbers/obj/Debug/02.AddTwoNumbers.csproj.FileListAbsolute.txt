@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\IntroAndBasicSyntaxLab\02.AddTwoNumbers\bin\Debug\02.AddTwoNumbers.exe.config

@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\03.01.SumAdjacentNumNAKOV\bin\Debug\03.01.SumAdjacentNumNAKOV.exe.config
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\03.01.SumAdjacentNumNAKOV\bin\Debug\03.01.SumAdjacentNumNAKOV.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\03.01.SumAdjacentNumNAKOV\bin\Debug\03.01.SumAdjacentNumNAKOV.pdb
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\03.01.SumAdjacentNumNAKOV\obj\Debug\03.01.SumAdjacentNumNAKOV.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\03.01.SumAdjacentNumNAKOV\obj\Debug\03.01.SumAdjacentNumNAKOV.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\03.01.SumAdjacentNumNAKOV\obj\Debug\03.01.SumAdjacentNumNAKOV.pdb

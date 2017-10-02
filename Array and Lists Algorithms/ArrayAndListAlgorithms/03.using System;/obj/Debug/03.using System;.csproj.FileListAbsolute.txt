@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\03.using System;\bin\Debug\03.using System;.exe.config

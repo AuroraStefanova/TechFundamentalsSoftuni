@@ -1,0 +1,6 @@
+G:\SoftUni\RetakeFundamentals\Methods\Methods\08.IntegerToBase\bin\Debug\08.IntegerToBase.exe.config
+G:\SoftUni\RetakeFundamentals\Methods\Methods\08.IntegerToBase\bin\Debug\08.IntegerToBase.exe
+G:\SoftUni\RetakeFundamentals\Methods\Methods\08.IntegerToBase\bin\Debug\08.IntegerToBase.pdb
+G:\SoftUni\RetakeFundamentals\Methods\Methods\08.IntegerToBase\obj\Debug\08.IntegerToBase.csprojResolveAssemblyReference.cache
+G:\SoftUni\RetakeFundamentals\Methods\Methods\08.IntegerToBase\obj\Debug\08.IntegerToBase.exe
+G:\SoftUni\RetakeFundamentals\Methods\Methods\08.IntegerToBase\obj\Debug\08.IntegerToBase.pdb

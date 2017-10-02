@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\04.NthDigit\bin\Debug\04.NthDigit.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\04.NthDigit\bin\Debug\04.NthDigit.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\04.NthDigit\bin\Debug\04.NthDigit.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\04.NthDigit\obj\Debug\04.NthDigit.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\04.NthDigit\obj\Debug\04.NthDigit.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ConsoleApplication1\MethodAndDebyging\04.NthDigit\obj\Debug\04.NthDigit.pdb

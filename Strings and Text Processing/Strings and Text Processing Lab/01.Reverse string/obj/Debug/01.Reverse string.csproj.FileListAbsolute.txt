@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing Lab\01.Reverse string\bin\Debug\01.Reverse string.exe.config

@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\2\bin\Debug\2.exe.config
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\2\obj\Debug\2.exe
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\2\obj\Debug\2.pdb
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\2\bin\Debug\2.exe
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\2\bin\Debug\2.pdb

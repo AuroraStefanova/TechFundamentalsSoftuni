@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\02.KeyKeyValueValue\bin\Debug\02.KeyKeyValueValue.exe.config
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\02.KeyKeyValueValue\bin\Debug\02.KeyKeyValueValue.exe
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\02.KeyKeyValueValue\bin\Debug\02.KeyKeyValueValue.pdb
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\02.KeyKeyValueValue\obj\Debug\02.KeyKeyValueValue.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\02.KeyKeyValueValue\obj\Debug\02.KeyKeyValueValue.exe
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\02.KeyKeyValueValue\obj\Debug\02.KeyKeyValueValue.pdb

@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\03.ShoppingSpree\bin\Debug\03.ShoppingSpree.exe.config
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\03.ShoppingSpree\bin\Debug\03.ShoppingSpree.exe
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\03.ShoppingSpree\bin\Debug\03.ShoppingSpree.pdb
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\03.ShoppingSpree\obj\Debug\03.ShoppingSpree.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\03.ShoppingSpree\obj\Debug\03.ShoppingSpree.exe
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\03.ShoppingSpree\obj\Debug\03.ShoppingSpree.pdb

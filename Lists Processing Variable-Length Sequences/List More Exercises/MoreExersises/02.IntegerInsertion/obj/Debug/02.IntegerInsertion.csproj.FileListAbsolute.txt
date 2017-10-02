@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\02.IntegerInsertion\bin\Debug\02.IntegerInsertion.exe.config
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\02.IntegerInsertion\bin\Debug\02.IntegerInsertion.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\02.IntegerInsertion\bin\Debug\02.IntegerInsertion.pdb
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\02.IntegerInsertion\obj\Debug\02.IntegerInsertion.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\02.IntegerInsertion\obj\Debug\02.IntegerInsertion.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\List More Exercises\MoreExersises\02.IntegerInsertion\obj\Debug\02.IntegerInsertion.pdb

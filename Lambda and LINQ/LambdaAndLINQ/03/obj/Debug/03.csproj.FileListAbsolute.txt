@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lambda and LINQ\LambdaAndLINQ\03\bin\Debug\03.exe.config
+G:\SoftUni\TehFundamentals\Lambda and LINQ\LambdaAndLINQ\03\obj\Debug\03.exe
+G:\SoftUni\TehFundamentals\Lambda and LINQ\LambdaAndLINQ\03\obj\Debug\03.pdb
+G:\SoftUni\TehFundamentals\Lambda and LINQ\LambdaAndLINQ\03\bin\Debug\03.exe
+G:\SoftUni\TehFundamentals\Lambda and LINQ\LambdaAndLINQ\03\bin\Debug\03.pdb
+G:\SoftUni\TehFundamentals\Lambda and LINQ\LambdaAndLINQ\03\obj\Debug\03.csprojResolveAssemblyReference.cache

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ArrayData", "01.ArrayData\01.ArrayData.csproj", "{5718076F-FD0C-4C52-A3FB-E3A23C3594EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.StringDecryption", "02.StringDecryption\02.StringDecryption.csproj", "{754B1E17-C282-450E-9A5F-724A942E2F96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Camping", "03.Camping\03.Camping.csproj", "{57D7FE1B-4C44-471F-BE3A-DDF8A9DF6A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.LambadaExpressions", "05.LambadaExpressions\05.LambadaExpressions.csproj", "{A7FEA557-DB9F-4ABA-8F86-CD5E745D00A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MostValuedCustomer", "04.MostValuedCustomer\04.MostValuedCustomer.csproj", "{7DC3DAEC-0693-4CEF-BD89-0B4497E38950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.OrderedBankingSystem", "06.OrderedBankingSystem\06.OrderedBankingSystem.csproj", "{B7324FD0-D5C9-4C35-85B2-06FCFEF1FE3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.LINQuistics", "07.LINQuistics\07.LINQuistics.csproj", "{83219FC3-EB95-44CC-817D-A1A4698556A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5718076F-FD0C-4C52-A3FB-E3A23C3594EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5718076F-FD0C-4C52-A3FB-E3A23C3594EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5718076F-FD0C-4C52-A3FB-E3A23C3594EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5718076F-FD0C-4C52-A3FB-E3A23C3594EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{754B1E17-C282-450E-9A5F-724A942E2F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754B1E17-C282-450E-9A5F-724A942E2F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754B1E17-C282-450E-9A5F-724A942E2F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754B1E17-C282-450E-9A5F-724A942E2F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D7FE1B-4C44-471F-BE3A-DDF8A9DF6A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D7FE1B-4C44-471F-BE3A-DDF8A9DF6A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D7FE1B-4C44-471F-BE3A-DDF8A9DF6A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D7FE1B-4C44-471F-BE3A-DDF8A9DF6A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FEA557-DB9F-4ABA-8F86-CD5E745D00A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FEA557-DB9F-4ABA-8F86-CD5E745D00A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FEA557-DB9F-4ABA-8F86-CD5E745D00A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FEA557-DB9F-4ABA-8F86-CD5E745D00A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC3DAEC-0693-4CEF-BD89-0B4497E38950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC3DAEC-0693-4CEF-BD89-0B4497E38950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC3DAEC-0693-4CEF-BD89-0B4497E38950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC3DAEC-0693-4CEF-BD89-0B4497E38950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7324FD0-D5C9-4C35-85B2-06FCFEF1FE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7324FD0-D5C9-4C35-85B2-06FCFEF1FE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7324FD0-D5C9-4C35-85B2-06FCFEF1FE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7324FD0-D5C9-4C35-85B2-06FCFEF1FE3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83219FC3-EB95-44CC-817D-A1A4698556A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83219FC3-EB95-44CC-817D-A1A4698556A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83219FC3-EB95-44CC-817D-A1A4698556A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83219FC3-EB95-44CC-817D-A1A4698556A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

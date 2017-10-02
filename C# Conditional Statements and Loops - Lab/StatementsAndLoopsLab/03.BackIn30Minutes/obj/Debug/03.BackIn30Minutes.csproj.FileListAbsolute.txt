@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\03.BackIn30Minutes\bin\Debug\03.BackIn30Minutes.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\03.BackIn30Minutes\bin\Debug\03.BackIn30Minutes.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\03.BackIn30Minutes\bin\Debug\03.BackIn30Minutes.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\03.BackIn30Minutes\obj\Debug\03.BackIn30Minutes.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\03.BackIn30Minutes\obj\Debug\03.BackIn30Minutes.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\03.BackIn30Minutes\obj\Debug\03.BackIn30Minutes.pdb

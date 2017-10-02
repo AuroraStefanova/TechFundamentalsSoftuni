@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\04.Sort ArrayUsingBubbleSort\bin\Debug\04.Sort ArrayUsingBubbleSort.exe.config
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\04.Sort ArrayUsingBubbleSort\bin\Debug\04.Sort ArrayUsingBubbleSort.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\04.Sort ArrayUsingBubbleSort\bin\Debug\04.Sort ArrayUsingBubbleSort.pdb
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\04.Sort ArrayUsingBubbleSort\obj\Debug\04.Sort ArrayUsingBubbleSort.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListAlgorithms\04.Sort ArrayUsingBubbleSort\obj\Debug\04.Sort ArrayUsingBubbleSort.pdb

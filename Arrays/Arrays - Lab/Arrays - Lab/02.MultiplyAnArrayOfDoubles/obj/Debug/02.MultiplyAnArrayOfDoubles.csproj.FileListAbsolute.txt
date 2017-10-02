@@ -1,0 +1,5 @@
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\02.MultiplyAnArrayOfDoubles\bin\Debug\02.MultiplyAnArrayOfDoubles.exe.config
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\02.MultiplyAnArrayOfDoubles\bin\Debug\02.MultiplyAnArrayOfDoubles.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\02.MultiplyAnArrayOfDoubles\bin\Debug\02.MultiplyAnArrayOfDoubles.pdb
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\02.MultiplyAnArrayOfDoubles\obj\Debug\02.MultiplyAnArrayOfDoubles.exe
+G:\SoftUni\RetakeFundamentals\Arrays\Arrays - Lab\Arrays - Lab\02.MultiplyAnArrayOfDoubles\obj\Debug\02.MultiplyAnArrayOfDoubles.pdb

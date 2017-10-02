@@ -1,0 +1,7 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\05.BPMCounter\bin\Debug\05.BPMCounter.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\05.BPMCounter\bin\Debug\05.BPMCounter.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\05.BPMCounter\bin\Debug\05.BPMCounter.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\05.BPMCounter\obj\Debug\05.BPMCounter.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\05.BPMCounter\obj\Debug\05.BPMCounter.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\05.BPMCounter\bin\Debug\05.BPMCounter.exe.CodeAnalysisLog.xml
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\05.BPMCounter\bin\Debug\05.BPMCounter.exe.lastcodeanalysissucceeded

@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\03.JSON Stringify\bin\Debug\03.JSON Stringify.exe.config

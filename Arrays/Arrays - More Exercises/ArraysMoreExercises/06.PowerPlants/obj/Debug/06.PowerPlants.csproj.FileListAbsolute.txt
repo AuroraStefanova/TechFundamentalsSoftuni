@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\06.PowerPlants\bin\Debug\06.PowerPlants.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\06.PowerPlants\bin\Debug\06.PowerPlants.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\06.PowerPlants\bin\Debug\06.PowerPlants.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\06.PowerPlants\obj\Debug\06.PowerPlants.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\06.PowerPlants\obj\Debug\06.PowerPlants.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays - More Exercises\ArraysMoreExercises\06.PowerPlants\obj\Debug\06.PowerPlants.pdb

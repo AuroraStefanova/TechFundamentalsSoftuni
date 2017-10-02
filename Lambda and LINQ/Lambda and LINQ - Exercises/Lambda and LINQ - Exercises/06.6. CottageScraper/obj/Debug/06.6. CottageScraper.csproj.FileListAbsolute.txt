@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Lambda and LINQ\Lambda and LINQ - Exercises\Lambda and LINQ - Exercises\06.6. CottageScraper\bin\Debug\_06._6.CottageScraper.exe.config

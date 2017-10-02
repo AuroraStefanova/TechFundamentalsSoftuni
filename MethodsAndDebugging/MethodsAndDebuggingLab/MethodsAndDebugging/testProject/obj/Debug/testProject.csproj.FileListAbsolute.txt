@@ -1,0 +1,2 @@
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\testProject\bin\Debug\testProject.exe.config
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\testProject\obj\Debug\testProject.csprojResolveAssemblyReference.cache

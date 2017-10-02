@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\secondTest\bin\Debug\secondTest.exe.config
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\secondTest\bin\Debug\secondTest.exe
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\secondTest\bin\Debug\secondTest.pdb
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\secondTest\obj\Debug\secondTest.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\secondTest\obj\Debug\secondTest.exe
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\secondTest\obj\Debug\secondTest.pdb

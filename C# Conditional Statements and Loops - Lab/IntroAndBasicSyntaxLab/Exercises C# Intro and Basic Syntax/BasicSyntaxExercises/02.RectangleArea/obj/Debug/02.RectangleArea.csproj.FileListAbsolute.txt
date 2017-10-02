@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\02.RectangleArea\bin\Debug\02.RectangleArea.exe.config
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\02.RectangleArea\bin\Debug\02.RectangleArea.exe
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\02.RectangleArea\bin\Debug\02.RectangleArea.pdb
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\02.RectangleArea\obj\Debug\02.RectangleArea.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\02.RectangleArea\obj\Debug\02.RectangleArea.exe
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\02.RectangleArea\obj\Debug\02.RectangleArea.pdb

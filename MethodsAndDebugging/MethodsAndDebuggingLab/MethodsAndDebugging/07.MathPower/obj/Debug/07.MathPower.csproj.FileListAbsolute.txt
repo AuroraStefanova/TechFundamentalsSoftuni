@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\07.MathPower\bin\Debug\07.MathPower.exe.config
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\07.MathPower\bin\Debug\07.MathPower.exe
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\07.MathPower\bin\Debug\07.MathPower.pdb
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\07.MathPower\obj\Debug\07.MathPower.exe
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\07.MathPower\obj\Debug\07.MathPower.pdb
+G:\SoftUni\TehFundamentals\MethodsAndDebugging\MethodsAndDebuggingLab\MethodsAndDebugging\07.MathPower\obj\Debug\07.MathPower.csprojResolveAssemblyReference.cache

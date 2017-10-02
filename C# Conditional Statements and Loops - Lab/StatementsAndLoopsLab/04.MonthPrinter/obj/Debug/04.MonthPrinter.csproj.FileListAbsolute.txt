@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\04.MonthPrinter\bin\Debug\04.MonthPrinter.exe.config

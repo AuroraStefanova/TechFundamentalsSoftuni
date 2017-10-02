@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\09.Altitude\bin\Debug\09.Altitude.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\09.Altitude\bin\Debug\09.Altitude.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\09.Altitude\bin\Debug\09.Altitude.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\09.Altitude\obj\Debug\09.Altitude.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\09.Altitude\obj\Debug\09.Altitude.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\09.Altitude\obj\Debug\09.Altitude.pdb

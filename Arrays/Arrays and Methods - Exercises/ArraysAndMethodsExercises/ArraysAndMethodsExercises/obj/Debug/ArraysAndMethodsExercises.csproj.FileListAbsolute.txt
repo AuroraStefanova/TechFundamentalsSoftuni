@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\ArraysAndMethodsExercises\bin\Debug\ArraysAndMethodsExercises.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\ArraysAndMethodsExercises\bin\Debug\ArraysAndMethodsExercises.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\ArraysAndMethodsExercises\bin\Debug\ArraysAndMethodsExercises.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\ArraysAndMethodsExercises\obj\Debug\ArraysAndMethodsExercises.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\ArraysAndMethodsExercises\obj\Debug\ArraysAndMethodsExercises.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\ArraysAndMethodsExercises\obj\Debug\ArraysAndMethodsExercises.pdb

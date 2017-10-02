@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\DayOfWeek\bin\Debug\DayOfWeek.exe
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\DayOfWeek\bin\Debug\DayOfWeek.pdb
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\DayOfWeek\obj\Debug\DayOfWeek.exe
+G:\SoftUni\TehFundamentals\Objects and Simple Classes\Objects and Simple Classes\Objects and Simple Classes\DayOfWeek\obj\Debug\DayOfWeek.pdb

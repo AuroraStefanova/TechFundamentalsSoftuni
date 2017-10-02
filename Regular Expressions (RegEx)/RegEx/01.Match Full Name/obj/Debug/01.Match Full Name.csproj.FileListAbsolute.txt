@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx\01.Match Full Name\bin\Debug\01.Match Full Name.exe.config

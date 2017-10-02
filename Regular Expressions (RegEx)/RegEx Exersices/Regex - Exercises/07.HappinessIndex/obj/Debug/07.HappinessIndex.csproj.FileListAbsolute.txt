@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\07.HappinessIndex\bin\Debug\07.HappinessIndex.exe.config
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\07.HappinessIndex\bin\Debug\07.HappinessIndex.exe
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\07.HappinessIndex\bin\Debug\07.HappinessIndex.pdb
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\07.HappinessIndex\obj\Debug\07.HappinessIndex.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\07.HappinessIndex\obj\Debug\07.HappinessIndex.exe
+G:\SoftUni\TehFundamentals\Regular Expressions (RegEx)\RegEx Exersices\Regex - Exercises\07.HappinessIndex\obj\Debug\07.HappinessIndex.pdb

@@ -1,0 +1,7 @@
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListsAlgorithms\05.DecodeRadioFrequencies\bin\Debug\05.DecodeRadioFrequencies.exe.config
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListsAlgorithmsExerseces\05.DecodeRadioFrequencies\bin\Debug\05.DecodeRadioFrequencies.exe.config
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListsAlgorithmsExerseces\05.DecodeRadioFrequencies\bin\Debug\05.DecodeRadioFrequencies.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListsAlgorithmsExerseces\05.DecodeRadioFrequencies\bin\Debug\05.DecodeRadioFrequencies.pdb
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListsAlgorithmsExerseces\05.DecodeRadioFrequencies\obj\Debug\05.DecodeRadioFrequencies.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListsAlgorithmsExerseces\05.DecodeRadioFrequencies\obj\Debug\05.DecodeRadioFrequencies.exe
+G:\SoftUni\TehFundamentals\Array and Lists Algorithms\ArrayAndListsAlgorithmsExerseces\05.DecodeRadioFrequencies\obj\Debug\05.DecodeRadioFrequencies.pdb

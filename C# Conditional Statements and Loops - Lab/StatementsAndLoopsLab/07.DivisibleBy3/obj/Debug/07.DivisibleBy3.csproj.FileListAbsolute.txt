@@ -1,0 +1,2 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\07.DivisibleBy3\bin\Debug\07.DivisibleBy3.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\07.DivisibleBy3\bin\Debug\_07.DivisibleBy3.exe.config

@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\10.TriangleNumbers\bin\Debug\10.TriangleNumbers.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\10.TriangleNumbers\bin\Debug\10.TriangleNumbers.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\10.TriangleNumbers\bin\Debug\10.TriangleNumbers.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\10.TriangleNumbers\obj\Debug\10.TriangleNumbers.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\10.TriangleNumbers\obj\Debug\10.TriangleNumbers.pdb

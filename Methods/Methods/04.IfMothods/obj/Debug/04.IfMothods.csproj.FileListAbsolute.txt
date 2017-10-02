@@ -1,0 +1,6 @@
+G:\SoftUni\RetakeFundamentals\Methods\Methods\04.IfMothods\bin\Debug\04.IfMothods.exe.config
+G:\SoftUni\RetakeFundamentals\Methods\Methods\04.IfMothods\bin\Debug\04.IfMothods.exe
+G:\SoftUni\RetakeFundamentals\Methods\Methods\04.IfMothods\bin\Debug\04.IfMothods.pdb
+G:\SoftUni\RetakeFundamentals\Methods\Methods\04.IfMothods\obj\Debug\04.IfMothods.csprojResolveAssemblyReference.cache
+G:\SoftUni\RetakeFundamentals\Methods\Methods\04.IfMothods\obj\Debug\04.IfMothods.exe
+G:\SoftUni\RetakeFundamentals\Methods\Methods\04.IfMothods\obj\Debug\04.IfMothods.pdb

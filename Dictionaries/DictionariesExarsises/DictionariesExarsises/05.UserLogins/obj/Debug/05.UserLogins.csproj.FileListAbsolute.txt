@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\05.UserLogins\bin\Debug\05.UserLogins.exe.config
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\05.UserLogins\obj\Debug\05.UserLogins.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\05.UserLogins\bin\Debug\05.UserLogins.exe
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\05.UserLogins\bin\Debug\05.UserLogins.pdb
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\05.UserLogins\obj\Debug\05.UserLogins.exe
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\05.UserLogins\obj\Debug\05.UserLogins.pdb

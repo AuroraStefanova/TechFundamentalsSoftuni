@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\05.SortNumber\bin\Debug\05.SortNumber.exe.config
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\05.SortNumber\bin\Debug\05.SortNumber.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\05.SortNumber\bin\Debug\05.SortNumber.pdb
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\05.SortNumber\obj\Debug\05.SortNumber.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\05.SortNumber\obj\Debug\05.SortNumber.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\05.SortNumber\obj\Debug\05.SortNumber.pdb

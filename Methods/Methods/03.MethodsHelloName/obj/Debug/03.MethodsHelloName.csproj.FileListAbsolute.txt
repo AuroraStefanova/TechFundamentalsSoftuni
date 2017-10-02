@@ -1,0 +1,6 @@
+G:\SoftUni\RetakeFundamentals\Methods\Methods\03.MethodsHelloName\bin\Debug\03.MethodsHelloName.exe.config
+G:\SoftUni\RetakeFundamentals\Methods\Methods\03.MethodsHelloName\bin\Debug\03.MethodsHelloName.exe
+G:\SoftUni\RetakeFundamentals\Methods\Methods\03.MethodsHelloName\bin\Debug\03.MethodsHelloName.pdb
+G:\SoftUni\RetakeFundamentals\Methods\Methods\03.MethodsHelloName\obj\Debug\03.MethodsHelloName.csprojResolveAssemblyReference.cache
+G:\SoftUni\RetakeFundamentals\Methods\Methods\03.MethodsHelloName\obj\Debug\03.MethodsHelloName.exe
+G:\SoftUni\RetakeFundamentals\Methods\Methods\03.MethodsHelloName\obj\Debug\03.MethodsHelloName.pdb

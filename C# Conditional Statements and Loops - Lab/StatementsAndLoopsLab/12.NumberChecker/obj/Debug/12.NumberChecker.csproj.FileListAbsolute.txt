@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\12.NumberChecker\bin\Debug\12.NumberChecker.exe.config

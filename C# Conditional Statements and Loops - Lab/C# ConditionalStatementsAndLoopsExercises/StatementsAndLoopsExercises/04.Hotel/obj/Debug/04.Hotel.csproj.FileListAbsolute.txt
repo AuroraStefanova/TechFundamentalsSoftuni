@@ -1,0 +1,2 @@
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\04.Hotel\bin\Debug\04.Hotel.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\04.Hotel\bin\Debug\04.Hotel.exe.config

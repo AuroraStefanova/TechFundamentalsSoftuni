@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\02.Find the Letter\bin\Debug\02.Find the Letter.exe.config
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\02.Find the Letter\bin\Debug\02.Find the Letter.exe
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\02.Find the Letter\bin\Debug\02.Find the Letter.pdb
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\02.Find the Letter\obj\Debug\02.Find the Letter.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\02.Find the Letter\obj\Debug\02.Find the Letter.exe
+G:\SoftUni\TehFundamentals\Strings and Text Processing\Strings and Text Processing - Exercises\Strings and Text Processing - Exercises\02.Find the Letter\obj\Debug\02.Find the Letter.pdb

@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\044444\bin\Debug\044444.exe.config
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\044444\bin\Debug\044444.exe
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\044444\bin\Debug\044444.pdb
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\044444\obj\Debug\044444.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\044444\obj\Debug\044444.exe
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\044444\obj\Debug\044444.pdb

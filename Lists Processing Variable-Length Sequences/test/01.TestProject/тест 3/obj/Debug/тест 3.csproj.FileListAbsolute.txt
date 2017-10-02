@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\test\01.TestProject\тест 3\bin\Debug\тест 3.exe.config
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\test\01.TestProject\тест 3\bin\Debug\тест 3.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\test\01.TestProject\тест 3\bin\Debug\тест 3.pdb
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\test\01.TestProject\тест 3\obj\Debug\тест 3.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\test\01.TestProject\тест 3\obj\Debug\тест 3.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\test\01.TestProject\тест 3\obj\Debug\тест 3.pdb

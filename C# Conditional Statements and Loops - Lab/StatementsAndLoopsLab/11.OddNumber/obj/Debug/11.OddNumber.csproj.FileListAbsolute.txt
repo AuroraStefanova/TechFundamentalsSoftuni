@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\11.OddNumber\bin\Debug\11.OddNumber.exe.config

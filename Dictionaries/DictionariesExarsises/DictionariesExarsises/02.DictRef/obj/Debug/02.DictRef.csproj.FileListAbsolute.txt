@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\02.DictRef\bin\Debug\02.DictRef.exe.config
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\02.DictRef\bin\Debug\02.DictRef.exe
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\02.DictRef\bin\Debug\02.DictRef.pdb
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\02.DictRef\obj\Debug\02.DictRef.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\02.DictRef\obj\Debug\02.DictRef.exe
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\02.DictRef\obj\Debug\02.DictRef.pdb

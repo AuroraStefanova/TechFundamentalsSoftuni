@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\4.Shellbound\bin\Debug\4.Shellbound.exe.config
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\4.Shellbound\bin\Debug\4.Shellbound.exe
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\4.Shellbound\bin\Debug\4.Shellbound.pdb
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\4.Shellbound\obj\Debug\4.Shellbound.exe
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\4.Shellbound\obj\Debug\4.Shellbound.pdb
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\4.Shellbound\obj\Debug\4.Shellbound.csprojResolveAssemblyReference.cache

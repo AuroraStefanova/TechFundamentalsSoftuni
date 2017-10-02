@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\02.TriplesLatinLetters\bin\Debug\02.TriplesLatinLetters.exe.config
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\02.TriplesLatinLetters\bin\Debug\02.TriplesLatinLetters.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\02.TriplesLatinLetters\bin\Debug\02.TriplesLatinLetters.pdb
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\02.TriplesLatinLetters\obj\Debug\02.TriplesLatinLetters.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\TypesTextАndOtherTypesVariables\TextАndTypesVariables\02.TriplesLatinLetters\obj\Debug\02.TriplesLatinLetters.pdb

@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# Basic Syntax - More Exercises\BasicSyntaxExercises\BasicSyntaxExercises\bin\Debug\BasicSyntaxExercises.exe.config

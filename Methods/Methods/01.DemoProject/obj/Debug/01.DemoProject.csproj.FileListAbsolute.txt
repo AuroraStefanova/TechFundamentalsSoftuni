@@ -1,0 +1,6 @@
+G:\SoftUni\RetakeFundamentals\Methods\Methods\01.DemoProject\bin\Debug\01.DemoProject.exe.config
+G:\SoftUni\RetakeFundamentals\Methods\Methods\01.DemoProject\bin\Debug\01.DemoProject.exe
+G:\SoftUni\RetakeFundamentals\Methods\Methods\01.DemoProject\bin\Debug\01.DemoProject.pdb
+G:\SoftUni\RetakeFundamentals\Methods\Methods\01.DemoProject\obj\Debug\01.DemoProject.csprojResolveAssemblyReference.cache
+G:\SoftUni\RetakeFundamentals\Methods\Methods\01.DemoProject\obj\Debug\01.DemoProject.exe
+G:\SoftUni\RetakeFundamentals\Methods\Methods\01.DemoProject\obj\Debug\01.DemoProject.pdb

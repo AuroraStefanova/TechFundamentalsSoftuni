@@ -1,0 +1,5 @@
+G:\SoftUni\RetakeFundamentals\Methods\Methods\05.MinMethod\bin\Debug\05.MinMethod.exe.config
+G:\SoftUni\RetakeFundamentals\Methods\Methods\05.MinMethod\bin\Debug\05.MinMethod.exe
+G:\SoftUni\RetakeFundamentals\Methods\Methods\05.MinMethod\bin\Debug\05.MinMethod.pdb
+G:\SoftUni\RetakeFundamentals\Methods\Methods\05.MinMethod\obj\Debug\05.MinMethod.exe
+G:\SoftUni\RetakeFundamentals\Methods\Methods\05.MinMethod\obj\Debug\05.MinMethod.pdb

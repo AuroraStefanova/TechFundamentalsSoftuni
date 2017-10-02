@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\03.SumAdjacentNum\bin\Debug\03.SumAdjacentNum.exe.config
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\03.SumAdjacentNum\bin\Debug\03.SumAdjacentNum.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\03.SumAdjacentNum\bin\Debug\03.SumAdjacentNum.pdb
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\03.SumAdjacentNum\obj\Debug\03.SumAdjacentNum.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\03.SumAdjacentNum\obj\Debug\03.SumAdjacentNum.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\Lists Lab\ListsLab\03.SumAdjacentNum\obj\Debug\03.SumAdjacentNum.pdb

@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\NumeralTypesАndTypeConversionLab\02.CirclePerimeter-Precision\bin\Debug\02.CirclePerimeter-Precision.exe.config
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\NumeralTypesАndTypeConversionLab\02.CirclePerimeter-Precision\bin\Debug\02.CirclePerimeter-Precision.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\NumeralTypesАndTypeConversionLab\02.CirclePerimeter-Precision\bin\Debug\02.CirclePerimeter-Precision.pdb
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\NumeralTypesАndTypeConversionLab\02.CirclePerimeter-Precision\obj\Debug\02.CirclePerimeter-Precision.exe
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\NumeralTypesАndTypeConversionLab\02.CirclePerimeter-Precision\obj\Debug\02.CirclePerimeter-Precision.pdb

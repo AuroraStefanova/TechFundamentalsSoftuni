@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\07.CountOfCapitalLettersInArray\bin\Debug\07.CountOfCapitalLettersInArray.exe.config
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\07.CountOfCapitalLettersInArray\bin\Debug\07.CountOfCapitalLettersInArray.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\07.CountOfCapitalLettersInArray\bin\Debug\07.CountOfCapitalLettersInArray.pdb
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\07.CountOfCapitalLettersInArray\obj\Debug\07.CountOfCapitalLettersInArray.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\07.CountOfCapitalLettersInArray\obj\Debug\07.CountOfCapitalLettersInArray.exe
+G:\SoftUni\TehFundamentals\Arrays\Arrays and Methods - Exercises\ArraysAndMethodsExercises\07.CountOfCapitalLettersInArray\obj\Debug\07.CountOfCapitalLettersInArray.pdb

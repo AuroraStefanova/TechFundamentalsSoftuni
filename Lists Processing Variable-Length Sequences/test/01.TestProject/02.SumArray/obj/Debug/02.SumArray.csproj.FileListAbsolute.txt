@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\test\01.TestProject\02.SumArray\bin\Debug\02.SumArray.exe.config
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\test\01.TestProject\02.SumArray\bin\Debug\02.SumArray.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\test\01.TestProject\02.SumArray\bin\Debug\02.SumArray.pdb
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\test\01.TestProject\02.SumArray\obj\Debug\02.SumArray.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\test\01.TestProject\02.SumArray\obj\Debug\02.SumArray.exe
+G:\SoftUni\TehFundamentals\Lists Processing Variable-Length Sequences\test\01.TestProject\02.SumArray\obj\Debug\02.SumArray.pdb

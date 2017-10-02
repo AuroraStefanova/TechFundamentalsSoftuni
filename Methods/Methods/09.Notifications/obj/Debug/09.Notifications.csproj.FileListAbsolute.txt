@@ -1,0 +1,6 @@
+G:\SoftUni\RetakeFundamentals\Methods\Methods\09.Notifications\bin\Debug\09.Notifications.exe.config
+G:\SoftUni\RetakeFundamentals\Methods\Methods\09.Notifications\bin\Debug\09.Notifications.exe
+G:\SoftUni\RetakeFundamentals\Methods\Methods\09.Notifications\bin\Debug\09.Notifications.pdb
+G:\SoftUni\RetakeFundamentals\Methods\Methods\09.Notifications\obj\Debug\09.Notifications.csprojResolveAssemblyReference.cache
+G:\SoftUni\RetakeFundamentals\Methods\Methods\09.Notifications\obj\Debug\09.Notifications.exe
+G:\SoftUni\RetakeFundamentals\Methods\Methods\09.Notifications\obj\Debug\09.Notifications.pdb

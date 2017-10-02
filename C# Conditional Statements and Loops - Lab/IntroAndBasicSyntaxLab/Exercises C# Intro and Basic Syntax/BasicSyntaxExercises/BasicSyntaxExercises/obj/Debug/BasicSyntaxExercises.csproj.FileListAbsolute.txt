@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\IntroAndBasicSyntaxLab\Exercises C# Intro and Basic Syntax\BasicSyntaxExercises\BasicSyntaxExercises\bin\Debug\BasicSyntaxExercises.exe.config

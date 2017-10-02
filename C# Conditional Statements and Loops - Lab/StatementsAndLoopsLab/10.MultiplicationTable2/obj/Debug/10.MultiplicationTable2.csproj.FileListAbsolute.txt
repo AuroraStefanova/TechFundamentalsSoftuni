@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\10.MultiplicationTable2\bin\Debug\10.MultiplicationTable2.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\10.MultiplicationTable2\bin\Debug\10.MultiplicationTable2.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\10.MultiplicationTable2\bin\Debug\10.MultiplicationTable2.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\10.MultiplicationTable2\obj\Debug\10.MultiplicationTable2.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\StatementsAndLoopsLab\10.MultiplicationTable2\obj\Debug\10.MultiplicationTable2.pdb

@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\04.ExamShopping\bin\Debug\04.ExamShopping.exe.config
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\04.ExamShopping\bin\Debug\04.ExamShopping.exe
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\04.ExamShopping\bin\Debug\04.ExamShopping.pdb
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\04.ExamShopping\obj\Debug\04.ExamShopping.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\04.ExamShopping\obj\Debug\04.ExamShopping.exe
+G:\SoftUni\TehFundamentals\Dictionaries\DictionariesExarsises\DictionariesExarsises\04.ExamShopping\obj\Debug\04.ExamShopping.pdb

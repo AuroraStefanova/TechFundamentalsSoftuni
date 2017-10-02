@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\6.ForumTopics\bin\Debug\6.ForumTopics.exe.config
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\6.ForumTopics\obj\Debug\6.ForumTopics.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\6.ForumTopics\bin\Debug\6.ForumTopics.exe
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\6.ForumTopics\bin\Debug\6.ForumTopics.pdb
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\6.ForumTopics\obj\Debug\6.ForumTopics.exe
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\6.ForumTopics\obj\Debug\6.ForumTopics.pdb

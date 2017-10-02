@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\03.TravelCompany\bin\Debug\03.TravelCompany.exe.config
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\03.TravelCompany\bin\Debug\03.TravelCompany.exe
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\03.TravelCompany\bin\Debug\03.TravelCompany.pdb
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\03.TravelCompany\obj\Debug\03.TravelCompany.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\03.TravelCompany\obj\Debug\03.TravelCompany.exe
+G:\SoftUni\TehFundamentals\Nested Dictionaries\NestedDictionariesExersisec\NestedDictionariesExercises\03.TravelCompany\obj\Debug\03.TravelCompany.pdb

@@ -1,0 +1,6 @@
+G:\SoftUni\RetakeFundamentals\Methods\Methods\07.NthDigit\bin\Debug\07.NthDigit.exe.config
+G:\SoftUni\RetakeFundamentals\Methods\Methods\07.NthDigit\bin\Debug\07.NthDigit.exe
+G:\SoftUni\RetakeFundamentals\Methods\Methods\07.NthDigit\bin\Debug\07.NthDigit.pdb
+G:\SoftUni\RetakeFundamentals\Methods\Methods\07.NthDigit\obj\Debug\07.NthDigit.csprojResolveAssemblyReference.cache
+G:\SoftUni\RetakeFundamentals\Methods\Methods\07.NthDigit\obj\Debug\07.NthDigit.exe
+G:\SoftUni\RetakeFundamentals\Methods\Methods\07.NthDigit\obj\Debug\07.NthDigit.pdb

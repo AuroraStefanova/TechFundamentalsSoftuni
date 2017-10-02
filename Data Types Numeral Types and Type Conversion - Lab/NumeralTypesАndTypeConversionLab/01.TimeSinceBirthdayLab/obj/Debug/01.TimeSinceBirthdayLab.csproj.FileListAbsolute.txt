@@ -1,0 +1,1 @@
+G:\SoftUni\TehFundamentals\Data Types Numeral Types and Type Conversion - Lab\NumeralTypesАndTypeConversionLab\01.TimeSinceBirthdayLab\bin\Debug\01.TimeSinceBirthdayLab.exe.config

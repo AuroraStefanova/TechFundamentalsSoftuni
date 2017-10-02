@@ -1,0 +1,9 @@
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\05.WordInPlural\bin\Debug\05.WordInPlural.exe.config
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\05.WordInPlural\bin\Debug\05.WordInPlural.exe
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\05.WordInPlural\bin\Debug\05.WordInPlural.pdb
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\05.WordInPlural\obj\Debug\05.WordInPlural.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\05.WordInPlural\obj\Debug\05.WordInPlural.exe
+G:\SoftUni\TehFundamentals\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\05.WordInPlural\obj\Debug\05.WordInPlural.pdb
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\05.WordInPlural\bin\Debug\05.WordInPlural.exe.config
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\05.WordInPlural\obj\Debug\05.WordInPlural.exe
+G:\SoftUni\TehFundamentals\C# Conditional Statements and Loops - Lab\C# ConditionalStatementsAndLoopsExercises\StatementsAndLoopsExercises\05.WordInPlural\obj\Debug\05.WordInPlural.pdb
