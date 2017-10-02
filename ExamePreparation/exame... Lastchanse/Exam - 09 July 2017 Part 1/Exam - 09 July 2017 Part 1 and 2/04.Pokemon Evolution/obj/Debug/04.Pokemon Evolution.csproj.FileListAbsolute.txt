@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam - 09 July 2017 Part 1\Exam - 09 July 2017 Part 1 and 2\04.Pokemon Evolution\bin\Debug\04.Pokemon Evolution.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam - 09 July 2017 Part 1\Exam - 09 July 2017 Part 1 and 2\04.Pokemon Evolution\bin\Debug\04.Pokemon Evolution.exe
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam - 09 July 2017 Part 1\Exam - 09 July 2017 Part 1 and 2\04.Pokemon Evolution\bin\Debug\04.Pokemon Evolution.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam - 09 July 2017 Part 1\Exam - 09 July 2017 Part 1 and 2\04.Pokemon Evolution\obj\Debug\04.Pokemon Evolution.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam - 09 July 2017 Part 1\Exam - 09 July 2017 Part 1 and 2\04.Pokemon Evolution\obj\Debug\04.Pokemon Evolution.exe
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam - 09 July 2017 Part 1\Exam - 09 July 2017 Part 1 and 2\04.Pokemon Evolution\obj\Debug\04.Pokemon Evolution.pdb

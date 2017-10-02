@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\Sample Exam II - June 2016\Sample Exam II - June 2016\01.SoftUni Airline\bin\Debug\01.SoftUni Airline.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\Sample Exam II - June 2016\Sample Exam II - June 2016\01.SoftUni Airline\bin\Debug\01.SoftUni Airline.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Sample Exam II - June 2016\Sample Exam II - June 2016\01.SoftUni Airline\bin\Debug\01.SoftUni Airline.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\Sample Exam II - June 2016\Sample Exam II - June 2016\01.SoftUni Airline\obj\Debug\01.SoftUni Airline.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\Sample Exam II - June 2016\Sample Exam II - June 2016\01.SoftUni Airline\obj\Debug\01.SoftUni Airline.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Sample Exam II - June 2016\Sample Exam II - June 2016\01.SoftUni Airline\obj\Debug\01.SoftUni Airline.pdb

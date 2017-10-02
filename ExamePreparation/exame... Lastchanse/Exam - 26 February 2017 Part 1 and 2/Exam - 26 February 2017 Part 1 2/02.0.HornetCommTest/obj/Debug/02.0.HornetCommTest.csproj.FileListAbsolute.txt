@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam - 26 February 2017 Part 1 and 2\Exam - 26 February 2017 Part 1 2\02.0.HornetCommTest\bin\Debug\02.0.HornetCommTest.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam - 26 February 2017 Part 1 and 2\Exam - 26 February 2017 Part 1 2\02.0.HornetCommTest\bin\Debug\02.0.HornetCommTest.exe
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam - 26 February 2017 Part 1 and 2\Exam - 26 February 2017 Part 1 2\02.0.HornetCommTest\bin\Debug\02.0.HornetCommTest.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam - 26 February 2017 Part 1 and 2\Exam - 26 February 2017 Part 1 2\02.0.HornetCommTest\obj\Debug\02.0.HornetCommTest.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam - 26 February 2017 Part 1 and 2\Exam - 26 February 2017 Part 1 2\02.0.HornetCommTest\obj\Debug\02.0.HornetCommTest.exe
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam - 26 February 2017 Part 1 and 2\Exam - 26 February 2017 Part 1 2\02.0.HornetCommTest\obj\Debug\02.0.HornetCommTest.pdb

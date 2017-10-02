@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SoftUni Airline", "01.SoftUni Airline\01.SoftUni Airline.csproj", "{E93C8A4D-9BDF-4A99-851A-0F6FC79CAB6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SoftUni Water Supplies", "02.SoftUni Water Supplies\02.SoftUni Water Supplies.csproj", "{2CCF3AD2-85DD-4998-9A3E-65CA22C18B89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E93C8A4D-9BDF-4A99-851A-0F6FC79CAB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93C8A4D-9BDF-4A99-851A-0F6FC79CAB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93C8A4D-9BDF-4A99-851A-0F6FC79CAB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93C8A4D-9BDF-4A99-851A-0F6FC79CAB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCF3AD2-85DD-4998-9A3E-65CA22C18B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCF3AD2-85DD-4998-9A3E-65CA22C18B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCF3AD2-85DD-4998-9A3E-65CA22C18B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCF3AD2-85DD-4998-9A3E-65CA22C18B89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

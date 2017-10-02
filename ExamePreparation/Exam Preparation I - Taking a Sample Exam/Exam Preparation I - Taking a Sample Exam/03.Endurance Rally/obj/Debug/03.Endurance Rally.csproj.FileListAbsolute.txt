@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation I - Taking a Sample Exam\Exam Preparation I - Taking a Sample Exam\03.Endurance Rally\bin\Debug\03.Endurance Rally.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation I - Taking a Sample Exam\Exam Preparation I - Taking a Sample Exam\03.Endurance Rally\bin\Debug\03.Endurance Rally.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation I - Taking a Sample Exam\Exam Preparation I - Taking a Sample Exam\03.Endurance Rally\bin\Debug\03.Endurance Rally.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation I - Taking a Sample Exam\Exam Preparation I - Taking a Sample Exam\03.Endurance Rally\obj\Debug\03.Endurance Rally.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation I - Taking a Sample Exam\Exam Preparation I - Taking a Sample Exam\03.Endurance Rally\obj\Debug\03.Endurance Rally.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation I - Taking a Sample Exam\Exam Preparation I - Taking a Sample Exam\03.Endurance Rally\obj\Debug\03.Endurance Rally.pdb

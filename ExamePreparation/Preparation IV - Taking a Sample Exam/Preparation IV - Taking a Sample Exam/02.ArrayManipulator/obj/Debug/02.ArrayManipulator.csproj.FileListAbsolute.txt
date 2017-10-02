@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation IV - Taking a Sample Exam\Preparation IV - Taking a Sample Exam\02.ArrayManipulator\bin\Debug\02.ArrayManipulator.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation IV - Taking a Sample Exam\Preparation IV - Taking a Sample Exam\02.ArrayManipulator\bin\Debug\02.ArrayManipulator.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation IV - Taking a Sample Exam\Preparation IV - Taking a Sample Exam\02.ArrayManipulator\bin\Debug\02.ArrayManipulator.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation IV - Taking a Sample Exam\Preparation IV - Taking a Sample Exam\02.ArrayManipulator\obj\Debug\02.ArrayManipulator.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation IV - Taking a Sample Exam\Preparation IV - Taking a Sample Exam\02.ArrayManipulator\obj\Debug\02.ArrayManipulator.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation IV - Taking a Sample Exam\Preparation IV - Taking a Sample Exam\02.ArrayManipulator\obj\Debug\02.ArrayManipulator.pdb

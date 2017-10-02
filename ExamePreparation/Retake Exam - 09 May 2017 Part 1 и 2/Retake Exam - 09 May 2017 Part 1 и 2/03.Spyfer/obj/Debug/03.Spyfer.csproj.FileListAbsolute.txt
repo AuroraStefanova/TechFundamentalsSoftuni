@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\Retake Exam - 09 May 2017 Part 1 и 2\Retake Exam - 09 May 2017 Part 1 и 2\03.Spyfer\bin\Debug\03.Spyfer.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\Retake Exam - 09 May 2017 Part 1 и 2\Retake Exam - 09 May 2017 Part 1 и 2\03.Spyfer\bin\Debug\03.Spyfer.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Retake Exam - 09 May 2017 Part 1 и 2\Retake Exam - 09 May 2017 Part 1 и 2\03.Spyfer\bin\Debug\03.Spyfer.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\Retake Exam - 09 May 2017 Part 1 и 2\Retake Exam - 09 May 2017 Part 1 и 2\03.Spyfer\obj\Debug\03.Spyfer.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\Retake Exam - 09 May 2017 Part 1 и 2\Retake Exam - 09 May 2017 Part 1 и 2\03.Spyfer\obj\Debug\03.Spyfer.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Retake Exam - 09 May 2017 Part 1 и 2\Retake Exam - 09 May 2017 Part 1 и 2\03.Spyfer\obj\Debug\03.Spyfer.pdb

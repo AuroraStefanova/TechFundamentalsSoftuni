@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\New folder\exame,,,,,,,,,,,,,\04. Roli - The Coder\bin\Debug\_04.Roli___The_Coder.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\New folder\exame,,,,,,,,,,,,,\04. Roli - The Coder\obj\Debug\04. Roli - The Coder.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\New folder\exame,,,,,,,,,,,,,\04. Roli - The Coder\bin\Debug\_04.Roli___The_Coder.exe
+G:\SoftUni\TehFundamentals\IHopeSo\New folder\exame,,,,,,,,,,,,,\04. Roli - The Coder\bin\Debug\_04.Roli___The_Coder.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\New folder\exame,,,,,,,,,,,,,\04. Roli - The Coder\obj\Debug\_04.Roli___The_Coder.exe
+G:\SoftUni\TehFundamentals\IHopeSo\New folder\exame,,,,,,,,,,,,,\04. Roli - The Coder\obj\Debug\_04.Roli___The_Coder.pdb

@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\Sample Exam I - June 2016\Exam I - June 2016\02.Array Modifier\bin\Debug\02.Array Modifier.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\Sample Exam I - June 2016\Exam I - June 2016\02.Array Modifier\bin\Debug\02.Array Modifier.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Sample Exam I - June 2016\Exam I - June 2016\02.Array Modifier\bin\Debug\02.Array Modifier.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\Sample Exam I - June 2016\Exam I - June 2016\02.Array Modifier\obj\Debug\02.Array Modifier.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\Sample Exam I - June 2016\Exam I - June 2016\02.Array Modifier\obj\Debug\02.Array Modifier.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Sample Exam I - June 2016\Exam I - June 2016\02.Array Modifier\obj\Debug\02.Array Modifier.pdb

@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam Preparation III\Exam Preparation III\03.Rage Quit\bin\Debug\03.Rage Quit.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam Preparation III\Exam Preparation III\03.Rage Quit\bin\Debug\03.Rage Quit.exe
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam Preparation III\Exam Preparation III\03.Rage Quit\bin\Debug\03.Rage Quit.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam Preparation III\Exam Preparation III\03.Rage Quit\obj\Debug\03.Rage Quit.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam Preparation III\Exam Preparation III\03.Rage Quit\obj\Debug\03.Rage Quit.exe
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam Preparation III\Exam Preparation III\03.Rage Quit\obj\Debug\03.Rage Quit.pdb

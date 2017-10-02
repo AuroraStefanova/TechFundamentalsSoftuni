@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation II - Taking a Sample Exam\Preparation II - Taking a Sample Exam\02.Ladybugs\bin\Debug\02.Ladybugs.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation II - Taking a Sample Exam\Preparation II - Taking a Sample Exam\02.Ladybugs\obj\Debug\02.Ladybugs.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation II - Taking a Sample Exam\Preparation II - Taking a Sample Exam\02.Ladybugs\bin\Debug\02.Ladybugs.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation II - Taking a Sample Exam\Preparation II - Taking a Sample Exam\02.Ladybugs\bin\Debug\02.Ladybugs.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation II - Taking a Sample Exam\Preparation II - Taking a Sample Exam\02.Ladybugs\obj\Debug\02.Ladybugs.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation II - Taking a Sample Exam\Preparation II - Taking a Sample Exam\02.Ladybugs\obj\Debug\02.Ladybugs.pdb

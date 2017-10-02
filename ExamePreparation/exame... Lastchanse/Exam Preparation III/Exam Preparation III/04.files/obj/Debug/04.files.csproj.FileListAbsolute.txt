@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam Preparation III\Exam Preparation III\04.files\bin\Debug\04.files.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam Preparation III\Exam Preparation III\04.files\bin\Debug\04.files.exe
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam Preparation III\Exam Preparation III\04.files\bin\Debug\04.files.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam Preparation III\Exam Preparation III\04.files\obj\Debug\04.files.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam Preparation III\Exam Preparation III\04.files\obj\Debug\04.files.exe
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Exam Preparation III\Exam Preparation III\04.files\obj\Debug\04.files.pdb

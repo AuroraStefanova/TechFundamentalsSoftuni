@@ -1,0 +1,5 @@
+G:\SoftUni\TehFundamentals\IHopeSo\Exam - 09 July 2017 Part 1 i 2\Exam - 09 July 2017 Part 1 and 2\02.Pokemon Don’t Go\bin\Debug\02.Pokemon Don’t Go.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\Exam - 09 July 2017 Part 1 i 2\Exam - 09 July 2017 Part 1 and 2\02.Pokemon Don’t Go\bin\Debug\02.Pokemon Don’t Go.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Exam - 09 July 2017 Part 1 i 2\Exam - 09 July 2017 Part 1 and 2\02.Pokemon Don’t Go\bin\Debug\02.Pokemon Don’t Go.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\Exam - 09 July 2017 Part 1 i 2\Exam - 09 July 2017 Part 1 and 2\02.Pokemon Don’t Go\obj\Debug\02.Pokemon Don’t Go.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Exam - 09 July 2017 Part 1 i 2\Exam - 09 July 2017 Part 1 and 2\02.Pokemon Don’t Go\obj\Debug\02.Pokemon Don’t Go.pdb

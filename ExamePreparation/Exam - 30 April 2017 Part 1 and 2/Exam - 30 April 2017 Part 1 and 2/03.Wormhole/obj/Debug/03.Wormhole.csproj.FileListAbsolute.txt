@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\Exam - 30 April 2017 Part 1 and 2\Exam - 30 April 2017 Part 1 and 2\03.Wormhole\bin\Debug\03.Wormhole.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\Exam - 30 April 2017 Part 1 and 2\Exam - 30 April 2017 Part 1 and 2\03.Wormhole\bin\Debug\03.Wormhole.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Exam - 30 April 2017 Part 1 and 2\Exam - 30 April 2017 Part 1 and 2\03.Wormhole\bin\Debug\03.Wormhole.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\Exam - 30 April 2017 Part 1 and 2\Exam - 30 April 2017 Part 1 and 2\03.Wormhole\obj\Debug\03.Wormhole.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\Exam - 30 April 2017 Part 1 and 2\Exam - 30 April 2017 Part 1 and 2\03.Wormhole\obj\Debug\03.Wormhole.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Exam - 30 April 2017 Part 1 and 2\Exam - 30 April 2017 Part 1 and 2\03.Wormhole\obj\Debug\03.Wormhole.pdb

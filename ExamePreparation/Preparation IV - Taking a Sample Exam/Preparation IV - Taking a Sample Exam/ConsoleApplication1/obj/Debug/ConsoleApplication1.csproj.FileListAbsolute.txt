@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation IV - Taking a Sample Exam\Preparation IV - Taking a Sample Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation IV - Taking a Sample Exam\Preparation IV - Taking a Sample Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation IV - Taking a Sample Exam\Preparation IV - Taking a Sample Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation IV - Taking a Sample Exam\Preparation IV - Taking a Sample Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation IV - Taking a Sample Exam\Preparation IV - Taking a Sample Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Preparation IV - Taking a Sample Exam\Preparation IV - Taking a Sample Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

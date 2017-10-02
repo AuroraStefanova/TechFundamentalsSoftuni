@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation I - Taking a Sample Exam\Exam Preparation I - Taking a Sample Exam\02.Karaoke\bin\Debug\02.Karaoke.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation I - Taking a Sample Exam\Exam Preparation I - Taking a Sample Exam\02.Karaoke\bin\Debug\02.Karaoke.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation I - Taking a Sample Exam\Exam Preparation I - Taking a Sample Exam\02.Karaoke\bin\Debug\02.Karaoke.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation I - Taking a Sample Exam\Exam Preparation I - Taking a Sample Exam\02.Karaoke\obj\Debug\02.Karaoke.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation I - Taking a Sample Exam\Exam Preparation I - Taking a Sample Exam\02.Karaoke\obj\Debug\02.Karaoke.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation I - Taking a Sample Exam\Exam Preparation I - Taking a Sample Exam\02.Karaoke\obj\Debug\02.Karaoke.pdb

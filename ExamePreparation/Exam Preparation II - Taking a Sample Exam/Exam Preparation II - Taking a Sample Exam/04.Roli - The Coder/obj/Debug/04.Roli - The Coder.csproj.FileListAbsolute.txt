@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation II - Taking a Sample Exam\Exam Preparation II - Taking a Sample Exam\04.Roli - The Coder\bin\Debug\04.Roli - The Coder.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation II - Taking a Sample Exam\Exam Preparation II - Taking a Sample Exam\04.Roli - The Coder\bin\Debug\04.Roli - The Coder.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation II - Taking a Sample Exam\Exam Preparation II - Taking a Sample Exam\04.Roli - The Coder\bin\Debug\04.Roli - The Coder.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation II - Taking a Sample Exam\Exam Preparation II - Taking a Sample Exam\04.Roli - The Coder\obj\Debug\04.Roli - The Coder.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation II - Taking a Sample Exam\Exam Preparation II - Taking a Sample Exam\04.Roli - The Coder\obj\Debug\04.Roli - The Coder.exe
+G:\SoftUni\TehFundamentals\IHopeSo\Exam Preparation II - Taking a Sample Exam\Exam Preparation II - Taking a Sample Exam\04.Roli - The Coder\obj\Debug\04.Roli - The Coder.pdb

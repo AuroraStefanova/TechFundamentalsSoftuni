@@ -1,0 +1,3 @@
+G:\SoftUni\TehFundamentals\IHopeSo\FirstPreparation\firstPreparation\02.Hornet Comm\bin\Debug\02.Hornet Comm.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\FirstPreparation\firstPreparation\02.Hornet Comm\obj\Debug\02.Hornet Comm.exe
+G:\SoftUni\TehFundamentals\IHopeSo\FirstPreparation\firstPreparation\02.Hornet Comm\obj\Debug\02.Hornet Comm.pdb

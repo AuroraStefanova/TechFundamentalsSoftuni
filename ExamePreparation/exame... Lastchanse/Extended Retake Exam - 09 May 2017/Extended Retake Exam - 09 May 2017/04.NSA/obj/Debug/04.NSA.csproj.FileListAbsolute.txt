@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Extended Retake Exam - 09 May 2017\Extended Retake Exam - 09 May 2017\04.NSA\bin\Debug\04.NSA.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Extended Retake Exam - 09 May 2017\Extended Retake Exam - 09 May 2017\04.NSA\bin\Debug\04.NSA.exe
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Extended Retake Exam - 09 May 2017\Extended Retake Exam - 09 May 2017\04.NSA\bin\Debug\04.NSA.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Extended Retake Exam - 09 May 2017\Extended Retake Exam - 09 May 2017\04.NSA\obj\Debug\04.NSA.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Extended Retake Exam - 09 May 2017\Extended Retake Exam - 09 May 2017\04.NSA\obj\Debug\04.NSA.exe
+G:\SoftUni\TehFundamentals\IHopeSo\exame... Lastchanse\Extended Retake Exam - 09 May 2017\Extended Retake Exam - 09 May 2017\04.NSA\obj\Debug\04.NSA.pdb

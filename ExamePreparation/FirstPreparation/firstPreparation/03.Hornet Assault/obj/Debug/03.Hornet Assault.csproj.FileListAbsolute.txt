@@ -1,0 +1,6 @@
+G:\SoftUni\TehFundamentals\IHopeSo\FirstPreparation\firstPreparation\03.Hornet Assault\bin\Debug\03.Hornet Assault.exe.config
+G:\SoftUni\TehFundamentals\IHopeSo\FirstPreparation\firstPreparation\03.Hornet Assault\bin\Debug\03.Hornet Assault.exe
+G:\SoftUni\TehFundamentals\IHopeSo\FirstPreparation\firstPreparation\03.Hornet Assault\bin\Debug\03.Hornet Assault.pdb
+G:\SoftUni\TehFundamentals\IHopeSo\FirstPreparation\firstPreparation\03.Hornet Assault\obj\Debug\03.Hornet Assault.csprojResolveAssemblyReference.cache
+G:\SoftUni\TehFundamentals\IHopeSo\FirstPreparation\firstPreparation\03.Hornet Assault\obj\Debug\03.Hornet Assault.exe
+G:\SoftUni\TehFundamentals\IHopeSo\FirstPreparation\firstPreparation\03.Hornet Assault\obj\Debug\03.Hornet Assault.pdb
